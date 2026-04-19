@@ -1,0 +1,1013 @@
+<!DOCTYPE HTML><html lang="en-US"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Email from University of South Florida Muma College of Business</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<style type="text/css" data-premailer="ignore"> 
+/* The following 2 styles are for handling signup landing pages  /* Set the default value for the targeted layout to display: none */ .layout--email_signup_fineprint { display: none; }  /* Display the targeted layout only if the doc contains email_address input */ body:has(label[for="email_address"]) .layout--email_signup_fineprint { display: block; }
+@media only screen and (max-width:480px) { .footer-main-width { width: 100% !important; }  .footer-mobile-hidden { display: none !important; }  .footer-mobile-hidden { display: none !important; }  .footer-column { display: block !important; }  .footer-mobile-stack { display: block !important; }  .footer-mobile-stack-padding { padding-top: 3px; } } 
+/* IE: correctly scale images with w/h attbs */ img { -ms-interpolation-mode: bicubic; } 
+.layout { min-width: 100%; } 
+table { table-layout: fixed; } .shell_outer-row, .shell_panel-row { table-layout: auto; } 
+/* Gmail/Web viewport fix */ u + .body .shell_outer-row { width: 700px; } 
+/* LIST AND p STYLE OVERRIDES */ .text .text_content-cell p { margin: 0; padding: 0; margin-bottom: 0; } .text .text_content-cell ul, .text .text_content-cell ol { padding: 0; margin: 0 0 0 40px; } .text .text_content-cell li { padding: 0; margin: 0; /* line-height: 1.2; Remove after testing */ } /* Text Link Style Reset */ a { text-decoration: underline; } /* iOS: Autolink styles inherited */ a[x-apple-data-detectors] { text-decoration: underline !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; color: inherit !important; } /* FF/Chrome: Smooth font rendering */ .text .text_content-cell { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+</style><!--[if gte mso 9]> <style id="ol-styles"> 
+/* OUTLOOK-SPECIFIC STYLES */ li { text-indent: -1em; padding: 0; margin: 0; /* line-height: 1.2; Remove after testing */ } ul, ol { padding: 0 0 0 40px; } p { margin: 0; padding: 0; margin-bottom: 0; } 
+</style> <![endif]--><style>@media only screen and (max-width:480px) {
+.button_content-cell {
+padding-top: 10px !important; padding-right: 20px !important; padding-bottom: 10px !important; padding-left: 20px !important;
+}
+.button_border-row .button_content-cell {
+padding-top: 10px !important; padding-right: 20px !important; padding-bottom: 10px !important; padding-left: 20px !important;
+}
+.column .content-padding-horizontal {
+padding-left: 20px !important; padding-right: 20px !important;
+}
+.layout .column .content-padding-horizontal .content-padding-horizontal {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+.layout .column .content-padding-horizontal .block-wrapper_border-row .content-padding-horizontal {
+padding-left: 20px !important; padding-right: 20px !important;
+}
+.dataTable {
+overflow: auto !important;
+}
+.dataTable .dataTable_content {
+width: auto !important;
+}
+.icons_container {
+text-align: center !important;
+}
+.image--mobile-center img {
+float: none !important;
+}
+.image--mobile-full-width img.image_content {
+width: 100% !important; max-width: 100% !important;
+}
+.image--mobile-full-width .image_container-caption {
+width: 100% !important; max-width: 100% !important;
+}
+.image.image--float-left {
+float: none !important;
+}
+.image--float-left.image--mobile-center .image_container-caption {
+display: inline-block !important;
+}
+.image--float-left.image--mobile-center .image_container {
+text-align: center !important;
+}
+.image.image--float-right {
+float: none !important;
+}
+.image--float-right.image--mobile-center .image_container-caption {
+display: inline-block !important;
+}
+.image--float-right.image--mobile-center .image_container {
+text-align: center !important;
+}
+.layout-margin .layout-margin_cell {
+padding: 0px 20px !important;
+}
+.layout-margin--uniform .layout-margin_cell {
+padding: 20px 20px !important;
+}
+.scale {
+width: 100% !important;
+}
+.stack {
+display: block !important; box-sizing: border-box;
+}
+.hide {
+display: none !important;
+}
+u + .body .shell_outer-row {
+width: 100% !important;
+}
+.socialFollow_container {
+text-align: center !important;
+}
+.text .text_content-cell {
+font-size: 16px !important;
+}
+.text .text_content-cell h1 {
+font-size: 24px !important;
+}
+.text .text_content-cell h2 {
+font-size: 20px !important;
+}
+.text .text_content-cell h3 {
+font-size: 20px !important;
+}
+.text--sectionHeading .text_content-cell {
+font-size: 24px !important;
+}
+.text--heading .text_content-cell {
+font-size: 24px !important;
+}
+.text--feature .text_content-cell h2 {
+font-size: 20px !important;
+}
+.text--articleHeading .text_content-cell {
+font-size: 20px !important;
+}
+.text--article .text_content-cell h3 {
+font-size: 20px !important;
+}
+.text--featureHeading .text_content-cell {
+font-size: 20px !important;
+}
+.text--feature .text_content-cell h3 {
+font-size: 20px !important;
+}
+.text--dataTable .text_content-cell .dataTable .dataTable_content-cell {
+font-size: 12px !important;
+}
+.text--dataTable .text_content-cell .dataTable th.dataTable_content-cell {
+font-size: px !important;
+}
+}
+</style>
+</head>
+<body class="body template template--en-US" data-template-version="1.49.5" data-canonical-name="CPE-PT16300" lang="en-US" align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; width: 100%; margin: 0px; padding: 0px;">
+<div style="background-color:#002D74;font-size:12pt; color:#EBE532; font-style:normal;padding:.2em;font-family:Montserrat Semi-Bold">
+<span style="font-weight:bold">USE CAUTION.</span> This message is from outside of N.C. A&amp;T.</div>
+<hr>
+<div>
+<div id="preheader" style="color: transparent; display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+<span data-entity-ref="preheader">News, research and events</span></div>
+<div id="tracking-image" style="color: transparent; display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+<img src="https://sgvwt7n6.cc.rs6.net/on.jsp?ca=7dc9eecc-964b-4e6e-8e62-bcc509445576&amp;a=1011351246034&amp;c=6c845858-a067-11f0-878d-fa163e804f0c&amp;ch=6c852fa8-a067-11f0-878d-fa163e804f0c" alt=""></div>
+<div class="shell" lang="en-US" dir="ltr" style="background-color: #24715a;"><!--[if gte mso 9]> <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t"> <v:fill type="tile" src="https://files.constantcontact.com/2d45b397be/d2fd62da-be70-4cb3-8ccd-4ef679e50a66.jpg?rdr=true" color="#24715a"/> </v:background> <![endif]-->
+<table class="shell_panel-row" width="100%" border="0" cellpadding="0" cellspacing="0" style="background-image: url('https://files.constantcontact.com/2d45b397be/d2fd62da-be70-4cb3-8ccd-4ef679e50a66.jpg?rdr=true');" background="https://files.constantcontact.com/2d45b397be/d2fd62da-be70-4cb3-8ccd-4ef679e50a66.jpg?rdr=true">
+<tbody>
+<tr class="">
+<td class="shell_panel-cell" style="" align="center" valign="top">
+<table class="shell_width-row scale" style="width: 700px;" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="shell_width-cell" style="padding: 15px 10px;" align="center" valign="top">
+<table class="shell_content-row" width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="shell_content-cell" style="background-color: #EDEBD1; padding: 0; border: 0px solid #333454;" align="center" valign="top" bgcolor="#EDEBD1">
+<table class="layout layout--1-column" style="table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 100%;" align="center" valign="top">
+<table class="image" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container" style="" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVWPVZHIhUfV2Qrv79X6MoIrKjZ4K_DwkF__Pscr714R0_uhrdfmVJ8I6XZbkgtQAjoASBKVbHCfyk18P2dlQvlBQ_s1iYAQgfQsA5bB0tO_0X-MeoYnwdg%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671081167%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=sdUMn1Mmu9IiCcBNnv%2FHXf%2BJLzgVQXKZyiflc0C8QzU%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVWPVZHIhUfV2Qrv79X6MoIrKjZ4K_DwkF__Pscr714R0_uhrdfmVJ8I6XZbkgtQAjoASBKVbHCfyk18P2dlQvlBQ_s1iYAQgfQsA5bB0tO_0X-MeoYnwdg=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="680" src="https://files.constantcontact.com/2d45b397be/a5d2fb86-7782-4e3b-9edd-e0cc20a3b8d8.jpg?rdr=true" alt="" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--3-column" style="background-color: #80b0a6; table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#80b0a6">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 0px 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu027CxtdrBm_rDk3qu8gDseopSfZSVvJ9DGNyTM14Qhc79QyosCBg2tTRVr6ZkR8Te3c2bWGUY_EYzQvl5BPrMmKXXGQOK7PxB2-o6jmjMHTdc-BcHXIs6SSulSx9M9eFfw2992Dupn1Z6Nq4Ejg26KhscFbign4wdB2nijdY4oTeofS4Vt9ZeZ7znw-EIzyxyaA9LQkBgNKQ%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671117546%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=N1FelJVPTvJ2mD%2FNVrw2gTyQA0T9zfZCHCvrt2CXWrI%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu027CxtdrBm_rDk3qu8gDseopSfZSVvJ9DGNyTM14Qhc79QyosCBg2tTRVr6ZkR8Te3c2bWGUY_EYzQvl5BPrMmKXXGQOK7PxB2-o6jmjMHTdc-BcHXIs6SSulSx9M9eFfw2992Dupn1Z6Nq4Ejg26KhscFbign4wdB2nijdY4oTeofS4Vt9ZeZ7znw-EIzyxyaA9LQkBgNKQ=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="205" src="https://files.constantcontact.com/2d45b397be/4b7f3f1d-3d5e-4556-9e76-0284fb493f0e.png?rdr=true" alt="" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 0px 10px 20px;" align="left" valign="top">
+<p style="margin: 0;"><span style="color: rgb(0, 0, 0); font-weight: normal;">Food Network star
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu027CxtdrBm_rDk3qu8gDseopSfZSVvJ9DGNyTM14Qhc79QyosCBg2tTRVr6ZkR8Te3c2bWGUY_EYzQvl5BPrMmKXXGQOK7PxB2-o6jmjMHTdc-BcHXIs6SSulSx9M9eFfw2992Dupn1Z6Nq4Ejg26KhscFbign4wdB2nijdY4oTeofS4Vt9ZeZyOY-07V44d2Mxufd7eJWRI%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671133860%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=DltaIy1zEjH8TZBdjnViyV6EIgGSrEh5Lhdu1bcI4lI%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu027CxtdrBm_rDk3qu8gDseopSfZSVvJ9DGNyTM14Qhc79QyosCBg2tTRVr6ZkR8Te3c2bWGUY_EYzQvl5BPrMmKXXGQOK7PxB2-o6jmjMHTdc-BcHXIs6SSulSx9M9eFfw2992Dupn1Z6Nq4Ejg26KhscFbign4wdB2nijdY4oTeofS4Vt9ZeZyOY-07V44d2Mxufd7eJWRI=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="font-weight: bold; color: rgb(0, 84, 50); text-decoration: none;">Jet
+ Tila</a><span style="color: rgb(0, 0, 0); font-weight: normal;"> brought his humor, humility and hospitality to USF during a fireside chat and book signing event.
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu027CxtdrBm_rDk3qu8gDseopSfZSVvJ9DGNyTM14Qhc79QyosCBg2tTRVr6ZkR8Te3c2bWGUY_EYzQvl5BPrMmKXXGQOK7PxB2-o6jmjMHTdc-BcHXIs6SSulSx9M9eFfw2992Dupn1Z6Nq4Ejg26KhscFbign4wdB2nijdY4oTeofS4Vt9ZeZ_UGCU2aRpyGfXWI7Qef3Fw%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671149705%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=7mewmDZIZu%2FZK2Dt5G%2Bb83pDUYCAgTUOBvXnmlWodRk%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu027CxtdrBm_rDk3qu8gDseopSfZSVvJ9DGNyTM14Qhc79QyosCBg2tTRVr6ZkR8Te3c2bWGUY_EYzQvl5BPrMmKXXGQOK7PxB2-o6jmjMHTdc-BcHXIs6SSulSx9M9eFfw2992Dupn1Z6Nq4Ejg26KhscFbign4wdB2nijdY4oTeofS4Vt9ZeZ_UGCU2aRpyGfXWI7Qef3Fw=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">Read
+ more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--2 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0P3W2ZYd_Bq4Mo86vqziD-8Y9G4XoSPW6Smjy0NslC4V8RZSWSg5IhTUiuV18yOxTM4wLPZWn7dpMVU8O_32X9BNiVvxlwSg2qBYtSKAyTYKU71m5lkOoasgQbyaeGfdL6FSerFnb-iOMZjPyJIWg056bTPc3D562TWEPVhZEN-4vc3cH7uRAs4HEYgQhmm4HisPdY97ikFILiDSP34hRNA%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671165500%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=TMeclqA6HLcNbYPSp5PHddlaECh4EKUw9vwt2NYPYys%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0P3W2ZYd_Bq4Mo86vqziD-8Y9G4XoSPW6Smjy0NslC4V8RZSWSg5IhTUiuV18yOxTM4wLPZWn7dpMVU8O_32X9BNiVvxlwSg2qBYtSKAyTYKU71m5lkOoasgQbyaeGfdL6FSerFnb-iOMZjPyJIWg056bTPc3D562TWEPVhZEN-4vc3cH7uRAs4HEYgQhmm4HisPdY97ikFILiDSP34hRNA==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="207" src="https://files.constantcontact.com/2d45b397be/1432ce4a-e705-4a70-a56c-e6e75f9c4c0c.png?rdr=true" alt="25 under 25 honorees" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px;" align="left" valign="top">
+<p style="margin: 0;">The college announced this year's class of <a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0P3W2ZYd_Bq4Mo86vqziD-8Y9G4XoSPW6Smjy0NslC4V8RZSWSg5IhTUiuV18yOxTM4wLPZWn7dpMVU8O_32X9BNiVvxlwSg2qBYtSKAyTYKU71m5lkOoasgQbyaeGfdL6FSerFnb-iOMZjPyJIWg056bTPc3D562TWEPVhZEN-4vc3cH7uRAs4HEYgQhmm4HehFKS_-9yZ3--GQ8yAJR0Q%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671179226%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=N689KqAL7k9M6jUacFsvOrJ1mdvsnvliofjw3tIMx14%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0P3W2ZYd_Bq4Mo86vqziD-8Y9G4XoSPW6Smjy0NslC4V8RZSWSg5IhTUiuV18yOxTM4wLPZWn7dpMVU8O_32X9BNiVvxlwSg2qBYtSKAyTYKU71m5lkOoasgQbyaeGfdL6FSerFnb-iOMZjPyJIWg056bTPc3D562TWEPVhZEN-4vc3cH7uRAs4HEYgQhmm4HehFKS_-9yZ3--GQ8yAJR0Q==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">
+25 Under 25 Award</a> recipients, honoring its high-achieving business students. <a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0P3W2ZYd_Bq4Mo86vqziD-8Y9G4XoSPW6Smjy0NslC4V8RZSWSg5IhTUiuV18yOxTM4wLPZWn7dpMVU8O_32X9BNiVvxlwSg2qBYtSKAyTYKU71m5lkOoasgQbyaeGfdL6FSerFnb-iOMZjPyJIWg056bTPc3D562TWEPVhZEN-4vc3cH7uRAs4HEYgQhmm4HWoTH_GT5VwNGEXr5R-PZGg%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671192451%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=dRS29cSh7nRcuJh9npEblav0E1CX%2F7zH2C9HhCPlV5o%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0P3W2ZYd_Bq4Mo86vqziD-8Y9G4XoSPW6Smjy0NslC4V8RZSWSg5IhTUiuV18yOxTM4wLPZWn7dpMVU8O_32X9BNiVvxlwSg2qBYtSKAyTYKU71m5lkOoasgQbyaeGfdL6FSerFnb-iOMZjPyJIWg056bTPc3D562TWEPVhZEN-4vc3cH7uRAs4HEYgQhmm4HWoTH_GT5VwNGEXr5R-PZGg==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">
+Read more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--3 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 20px 10px 0px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0a198K0pwRB4RzJBEBhBOsuwJ48wXeiIOcaB6f_84-aBKiDCyR0eXvGCNgU-W-nDCYo9NYoRfM2aPTeBSMLgqZJj_1YVesAarQMCGxML1ENNpgqaeqCVcZoXTpbTNV015TyZG3DR9763fLxk2fIS5c-n4P5f_Oe9sIHQaV9ch8nKFwysp1nQy8jF9qg8puRfJBAz8orXHuaLgvsgQVW0KubPPIDqKcKiZu1uDnh2VWruyp3HH5LzscA%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671205422%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=HBOoz%2F4MajvlbuUaN9txXZ9modvWnUkvFknaYgizHD4%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0a198K0pwRB4RzJBEBhBOsuwJ48wXeiIOcaB6f_84-aBKiDCyR0eXvGCNgU-W-nDCYo9NYoRfM2aPTeBSMLgqZJj_1YVesAarQMCGxML1ENNpgqaeqCVcZoXTpbTNV015TyZG3DR9763fLxk2fIS5c-n4P5f_Oe9sIHQaV9ch8nKFwysp1nQy8jF9qg8puRfJBAz8orXHuaLgvsgQVW0KubPPIDqKcKiZu1uDnh2VWruyp3HH5LzscA==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="207" src="https://files.constantcontact.com/2d45b397be/583c9ce3-1883-4deb-a390-2b8f17841c74.jpg?rdr=true" alt="finance talent pathway new york" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px 10px 0px;" align="left" valign="top">
+<p style="margin: 0;">Students in the <a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0a198K0pwRB4RzJBEBhBOsuwJ48wXeiIOcaB6f_84-aBKiDCyR0eXvGCNgU-W-nDCYo9NYoRfM2aPTeBSMLgqZJj_1YVesAarQMCGxML1ENNpgqaeqCVcZoXTpbTNV015TyZG3DR9763fLxk2fIS5c-n4P5f_Oe9sIHQaV9ch8nKFwysp1nQy8jF9qg8puRfJBAz8orXHuaLgvsgQVW0KubPPIDqKcKiZRcYpcqbubm2T2Rp-I2c-AQ%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671218427%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=apzj%2BkbUsqonTQg1nzq3dq7Ax6%2F7EmGkaH7qY%2BpogeY%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0a198K0pwRB4RzJBEBhBOsuwJ48wXeiIOcaB6f_84-aBKiDCyR0eXvGCNgU-W-nDCYo9NYoRfM2aPTeBSMLgqZJj_1YVesAarQMCGxML1ENNpgqaeqCVcZoXTpbTNV015TyZG3DR9763fLxk2fIS5c-n4P5f_Oe9sIHQaV9ch8nKFwysp1nQy8jF9qg8puRfJBAz8orXHuaLgvsgQVW0KubPPIDqKcKiZRcYpcqbubm2T2Rp-I2c-AQ==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">
+Finance Talent Pathway</a> program took an immersive trip to see New York's global financial exchanges.
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0a198K0pwRB4RzJBEBhBOsuwJ48wXeiIOcaB6f_84-aBKiDCyR0eXvGCNgU-W-nDCYo9NYoRfM2aPTeBSMLgqZJj_1YVesAarQMCGxML1ENNpgqaeqCVcZoXTpbTNV015TyZG3DR9763fLxk2fIS5c-n4P5f_Oe9sIHQaV9ch8nKFwysp1nQy8jF9qg8puRfJBAz8orXHuaLgvsgQVW0KubPPIDqKcKiZWuIA8WxUYud51Cnfv0iUhA%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671234402%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=uG5RbE6%2FXrU9qmGP%2BLkunB2yhjX%2FK0TwKOD8JFGiKTM%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0a198K0pwRB4RzJBEBhBOsuwJ48wXeiIOcaB6f_84-aBKiDCyR0eXvGCNgU-W-nDCYo9NYoRfM2aPTeBSMLgqZJj_1YVesAarQMCGxML1ENNpgqaeqCVcZoXTpbTNV015TyZG3DR9763fLxk2fIS5c-n4P5f_Oe9sIHQaV9ch8nKFwysp1nQy8jF9qg8puRfJBAz8orXHuaLgvsgQVW0KubPPIDqKcKiZWuIA8WxUYud51Cnfv0iUhA==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">
+Read more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--3-column" style="background-color: #004832; table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#004832">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 33%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 0px 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu06lN45r4smH2KTimEeoMOFj70tmFoE5MBRFQ82tsc3pDYVvxp3ilJ23vvSWsNSA7t0r-kbRQwNfKDs83Rr6F-9hSYaqzCzfKoyJog1StYGZkRGGsQ1Mm_zgk0RRVd-umLnb3RpssKz9ctPWdYJ97jBEP99H6EMmYJ1RJVi0b92_nV-Z49OAt-hIAyYgewJ8i126UnXqd5NbHKGXTQCIQ-0Op9xaqWxhFSou4lKOdG-CU%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671247808%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=CQzsDdtB1XuhGEPfWDgw0emTiNBzoxMVh97m4oiC4mU%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu06lN45r4smH2KTimEeoMOFj70tmFoE5MBRFQ82tsc3pDYVvxp3ilJ23vvSWsNSA7t0r-kbRQwNfKDs83Rr6F-9hSYaqzCzfKoyJog1StYGZkRGGsQ1Mm_zgk0RRVd-umLnb3RpssKz9ctPWdYJ97jBEP99H6EMmYJ1RJVi0b92_nV-Z49OAt-hIAyYgewJ8i126UnXqd5NbHKGXTQCIQ-0Op9xaqWxhFSou4lKOdG-CU=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="205" src="https://files.constantcontact.com/2d45b397be/5d531963-e07e-485c-904b-1c5f027e5ffd.png?rdr=true" alt="" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 0px 10px 20px;" align="left" valign="top">
+<p style="margin: 0;"><span style="color: rgb(255, 255, 255);">Finance professor </span>
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu06lN45r4smH2KTimEeoMOFj70tmFoE5MBRFQ82tsc3pDYVvxp3ilJ23vvSWsNSA7t0r-kbRQwNfKDs83Rr6F-9hSYaqzCzfKoyJog1StYGZkRGGsQ1Mm_zgk0RRVd-umLnb3RpssKz9ctPWdYJ97jBEP99H6EMmYJ1RJVi0b92_nV-Z49OAt-hIAyYgewJ8i126UnXqd5NbHKGXTQCIQ-0CtoGLeKa5W7BaYp_qgqQig%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671260920%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=lsiKSdYBparJA2k1KKDYo%2BkuDGSNg4rcK8c9WM766k8%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu06lN45r4smH2KTimEeoMOFj70tmFoE5MBRFQ82tsc3pDYVvxp3ilJ23vvSWsNSA7t0r-kbRQwNfKDs83Rr6F-9hSYaqzCzfKoyJog1StYGZkRGGsQ1Mm_zgk0RRVd-umLnb3RpssKz9ctPWdYJ97jBEP99H6EMmYJ1RJVi0b92_nV-Z49OAt-hIAyYgewJ8i126UnXqd5NbHKGXTQCIQ-0CtoGLeKa5W7BaYp_qgqQig=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Xi
+ Liu</a><span style="color: rgb(255, 255, 255);"> (PhD, '12) received the 2026 Distinguished PhD Alumni Award for his contributions to the financial economics discipline.
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu06lN45r4smH2KTimEeoMOFj70tmFoE5MBRFQ82tsc3pDYVvxp3ilJ23vvSWsNSA7t0r-kbRQwNfKDs83Rr6F-9hSYaqzCzfKoyJog1StYGZkRGGsQ1Mm_zgk0RRVd-umLnb3RpssKz9ctPWdYJ97jBEP99H6EMmYJ1RJVi0b92_nV-Z49OAt-hIAyYgewJ8i126UnXqd5NbHKGXTQCIQ-0DIJ9JBneBsQUMwEayXsWu4%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671274945%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=4y0IqvcvNetaqHQb5521m%2FOkc%2FHpJgj2Mx%2Fy7weOJ7Q%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu06lN45r4smH2KTimEeoMOFj70tmFoE5MBRFQ82tsc3pDYVvxp3ilJ23vvSWsNSA7t0r-kbRQwNfKDs83Rr6F-9hSYaqzCzfKoyJog1StYGZkRGGsQ1Mm_zgk0RRVd-umLnb3RpssKz9ctPWdYJ97jBEP99H6EMmYJ1RJVi0b92_nV-Z49OAt-hIAyYgewJ8i126UnXqd5NbHKGXTQCIQ-0DIJ9JBneBsQUMwEayXsWu4=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Read
+ more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--2 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0VSQvoeQkC8gJ7DWb3_Dt95VL6EeTwJarj0FlcU2bpjyL2Q1lwIkJoD0VBP7Jxbrbi_Y2FhDg3ydBvON6Bpi8FJeHloYjnLEoHDT0A9vudTrXBr6hHrqUI6x7mOLsHaEA%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671288195%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=A1POFe4SHnWg432w000ik2DUzWC2%2FA9qyvm3fGHJbBI%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0VSQvoeQkC8gJ7DWb3_Dt95VL6EeTwJarj0FlcU2bpjyL2Q1lwIkJoD0VBP7Jxbrbi_Y2FhDg3ydBvON6Bpi8FJeHloYjnLEoHDT0A9vudTrXBr6hHrqUI6x7mOLsHaEA&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="207" src="https://files.constantcontact.com/2d45b397be/de4e7f2c-fe37-4441-a597-20445d3f247e.png?rdr=true" alt="" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px;" align="left" valign="top">
+<p style="margin: 0;"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0VSQvoeQkC8gJ7DWb3_Dt95VL6EeTwJarj0FlcU2bpjyL2Q1lwIkJoD0VBP7Jxbrbi_Y2FhDg3ydBvON6Bpi8FJeHloYjnLEoHDT0A9vudTqfuEejhMTX608j1Rf0ihTH%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671301179%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=BoQRBreWtSaQmz9bcQufindpWD9OZvK5zfwQx15PvaQ%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0VSQvoeQkC8gJ7DWb3_Dt95VL6EeTwJarj0FlcU2bpjyL2Q1lwIkJoD0VBP7Jxbrbi_Y2FhDg3ydBvON6Bpi8FJeHloYjnLEoHDT0A9vudTqfuEejhMTX608j1Rf0ihTH&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Andy
+ and Eileen Hafer</a><span style="color: rgb(255, 255, 255);"> donated $1.75 million to establish the Hafer THRIVE Entrepreneurship Program to support student business ventures.
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0VSQvoeQkC8gJ7DWb3_Dt95VL6EeTwJarj0FlcU2bpjyL2Q1lwIkJoD0VBP7Jxbrbi_Y2FhDg3ydBvON6Bpi8FJeHloYjnLEoHDT0A9vudTo6bmkQiz1iU1WyckiO3wED%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671314424%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=EIoDfbyoD1NYZkc9eHpkCjIIec5%2FdRGRNcwiqNbJKy8%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0VSQvoeQkC8gJ7DWb3_Dt95VL6EeTwJarj0FlcU2bpjyL2Q1lwIkJoD0VBP7Jxbrbi_Y2FhDg3ydBvON6Bpi8FJeHloYjnLEoHDT0A9vudTo6bmkQiz1iU1WyckiO3wED&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Read
+ more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--3 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 20px 10px 0px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu08RTmg0lt6NgaD3PFLgRgtkGrN4Fw-tKLOY9HMLfBAtQo0YcpI8tgtUb7P9C61fHJT0Dw7UMDjp9m-Evp3O3jzpKiDukZvWRMDp_BJzEHH_Z6yVE4HGffynESxC8y28QV2z0Syh6jtH7PHVYrQwFQng%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671327707%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=yXTVVh5FozDKTHkos7HVv81ouZ8poXzIyDk4oxCDl9o%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu08RTmg0lt6NgaD3PFLgRgtkGrN4Fw-tKLOY9HMLfBAtQo0YcpI8tgtUb7P9C61fHJT0Dw7UMDjp9m-Evp3O3jzpKiDukZvWRMDp_BJzEHH_Z6yVE4HGffynESxC8y28QV2z0Syh6jtH7PHVYrQwFQng==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="207" src="https://files.constantcontact.com/2d45b397be/fb304513-85e2-40e7-aebd-254ec4317784.jpg?rdr=true" alt="mike harting" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px 10px 0px;" align="left" valign="top">
+<p style="margin: 0;"><span style="color: rgb(255, 255, 255);">Brewery founder </span>
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu08RTmg0lt6NgaD3PFLgRgtkGrN4Fw-tKLOY9HMLfBAtQo0YcpI8tgtUb7P9C61fHJT0Dw7UMDjp9m-Evp3O3jzpKiDukZvWRMDp_BJzEHH_Z6yVE4HGffynESxC8y28QV2z0Syh6jtH7RXYm354kbag%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671340290%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=qE8wj7CwMczQs0LANNgNgSp8X4sJFqAsW%2FqX5AGTZrI%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu08RTmg0lt6NgaD3PFLgRgtkGrN4Fw-tKLOY9HMLfBAtQo0YcpI8tgtUb7P9C61fHJT0Dw7UMDjp9m-Evp3O3jzpKiDukZvWRMDp_BJzEHH_Z6yVE4HGffynESxC8y28QV2z0Syh6jtH7RXYm354kbag==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Mike
+ Harting</a><span style="color: rgb(255, 255, 255);"> shared candid lessons on entrepreneurship at a Conversation with a Founder event at USF St. Petersburg.
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu08RTmg0lt6NgaD3PFLgRgtkGrN4Fw-tKLOY9HMLfBAtQo0YcpI8tgtUb7P9C61fHJT0Dw7UMDjp9m-Evp3O3jzpKiDukZvWRMDp_BJzEHH_Z6yVE4HGffynESxC8y28QV2z0Syh6jtH54D0QU-0Iyng%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671353416%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=FmjrltzOKf3ZG8udDJeFWoDg9PNLPeSdvoW3CNVEeP8%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu08RTmg0lt6NgaD3PFLgRgtkGrN4Fw-tKLOY9HMLfBAtQo0YcpI8tgtUb7P9C61fHJT0Dw7UMDjp9m-Evp3O3jzpKiDukZvWRMDp_BJzEHH_Z6yVE4HGffynESxC8y28QV2z0Syh6jtH54D0QU-0Iyng==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Read
+ more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--3-column" style="background-color: #80B0A6; table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#80B0A6">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 0px 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0XhzOhYAQuuMi4t0nNgPREz_wCT06-nEwWikm7ieq3kSyqpKS8gER9dUoPIO_4nUmnEnhzVspg2jfuUzLdYR_wgSvQwuoVHH_90-sKg9mkWky3XrgG0r2U6sotZp5NtIT3BPYgqNFKM_sbP-4GW-dlzv93y_cMESaMVvdAHz9EaNTe05-AN4d0Q%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671366376%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=%2BQiNT7g6SshTSxsOB%2BQSBB%2BD332n5vlfI1VN5xhgY3U%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0XhzOhYAQuuMi4t0nNgPREz_wCT06-nEwWikm7ieq3kSyqpKS8gER9dUoPIO_4nUmnEnhzVspg2jfuUzLdYR_wgSvQwuoVHH_90-sKg9mkWky3XrgG0r2U6sotZp5NtIT3BPYgqNFKM_sbP-4GW-dlzv93y_cMESaMVvdAHz9EaNTe05-AN4d0Q==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="200" src="https://files.constantcontact.com/2d45b397be/6fe7bbe8-d63a-49c4-bc23-84c8196bd151.jpg?rdr=true" alt="" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 0px 10px 20px;" align="left" valign="top">
+<p style="margin: 0;">The inaugural <a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0XhzOhYAQuuMi4t0nNgPREz_wCT06-nEwWikm7ieq3kSyqpKS8gER9dUoPIO_4nUmnEnhzVspg2jfuUzLdYR_wgSvQwuoVHH_90-sKg9mkWky3XrgG0r2U6sotZp5NtIT3BPYgqNFKM_sbP-4GW-dlzv93y_cMESay5SVQFR4XoQXCnJpQlZthg%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671379108%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=25Ct6WmFpQtzgixLhLVA2iLqdDyhTpnoZVGWqo%2FCw40%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0XhzOhYAQuuMi4t0nNgPREz_wCT06-nEwWikm7ieq3kSyqpKS8gER9dUoPIO_4nUmnEnhzVspg2jfuUzLdYR_wgSvQwuoVHH_90-sKg9mkWky3XrgG0r2U6sotZp5NtIT3BPYgqNFKM_sbP-4GW-dlzv93y_cMESay5SVQFR4XoQXCnJpQlZthg==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">
+Muma Digital Business Awards</a> honored three leaders shaping the future of technology and innovation.
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0XhzOhYAQuuMi4t0nNgPREz_wCT06-nEwWikm7ieq3kSyqpKS8gER9dUoPIO_4nUmnEnhzVspg2jfuUzLdYR_wgSvQwuoVHH_90-sKg9mkWky3XrgG0r2U6sotZp5NtIT3BPYgqNFKM_sbP-4GW-dlzv93y_cMESa5Q1nZmaZ9B724scUwoKpBQ%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671395295%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=%2F6FBLSgE7Wat7MfjJbojCV8hXgc4teGVSgZwZsi5ego%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0XhzOhYAQuuMi4t0nNgPREz_wCT06-nEwWikm7ieq3kSyqpKS8gER9dUoPIO_4nUmnEnhzVspg2jfuUzLdYR_wgSvQwuoVHH_90-sKg9mkWky3XrgG0r2U6sotZp5NtIT3BPYgqNFKM_sbP-4GW-dlzv93y_cMESa5Q1nZmaZ9B724scUwoKpBQ==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">
+Read more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--2 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu01j3Mrxk8hwLUjRFOHPdZTtric8_1HMS-AZ0cEeslc_HtVpS5p-22drm9Bv0eqSWXcL53L09i81M0cJCrEwQsT9OGO3EVusFKlVpDHNdkOKoOgMPmWvcMpMrs8oRELl0EgD3PXOw39ckGHuueLpgaDqwh2tJNZcDYSusIcqx3p0LVWHS03XNiUBWJtp4St5Fg%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671409973%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=OY8hH%2FgoyvMNyukKSqe7JljfTsZcYSisInZ%2B2oDwibs%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu01j3Mrxk8hwLUjRFOHPdZTtric8_1HMS-AZ0cEeslc_HtVpS5p-22drm9Bv0eqSWXcL53L09i81M0cJCrEwQsT9OGO3EVusFKlVpDHNdkOKoOgMPmWvcMpMrs8oRELl0EgD3PXOw39ckGHuueLpgaDqwh2tJNZcDYSusIcqx3p0LVWHS03XNiUBWJtp4St5Fg&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="200" src="https://files.constantcontact.com/2d45b397be/0bb669c7-a323-47fd-9864-7a66128b98c4.jpg?rdr=true" alt="tampa skyline" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px;" align="left" valign="top">
+<p style="margin: 0;">Investors and developers will address the complexities of today's market at the
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu01j3Mrxk8hwLUjRFOHPdZTtric8_1HMS-AZ0cEeslc_HtVpS5p-22drm9Bv0eqSWXcL53L09i81M0cJCrEwQsT9OGO3EVusFKlVpDHNdkOKoOgMPmWvcMpMrs8oRELl0EgD3PXOw39ckGHuueLpgaDqwh2tJNZcDYSusIcqx3p0JmcaSPo2j8Xr89I7V9oI4_%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671424303%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=9e040pcNvEBnScWfErFFyeyFiB6k7X8%2BkZDjfHXwa0E%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu01j3Mrxk8hwLUjRFOHPdZTtric8_1HMS-AZ0cEeslc_HtVpS5p-22drm9Bv0eqSWXcL53L09i81M0cJCrEwQsT9OGO3EVusFKlVpDHNdkOKoOgMPmWvcMpMrs8oRELl0EgD3PXOw39ckGHuueLpgaDqwh2tJNZcDYSusIcqx3p0JmcaSPo2j8Xr89I7V9oI4_&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">
+Real Estate Leadership Summit</a> on May 8.<span style="color: rgb(0, 12, 8);"> </span>
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu01j3Mrxk8hwLUjRFOHPdZTtric8_1HMS-AZ0cEeslc_HtVpS5p-22drm9Bv0eqSWXcL53L09i81M0cJCrEwQsT9OGO3EVusFKlVpDHNdkOKoOgMPmWvcMpMrs8oRELl0EgD3PXOw39ckGHuueLpgaDqwh2tJNZcDYSusIcqx3p0JjF0kPQhqAZQJQeZgoZcSz%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671438505%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=W0rfUM0Z0IJe8dMTvUvjXdop2tOVIzdNsnEWdssXJyw%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu01j3Mrxk8hwLUjRFOHPdZTtric8_1HMS-AZ0cEeslc_HtVpS5p-22drm9Bv0eqSWXcL53L09i81M0cJCrEwQsT9OGO3EVusFKlVpDHNdkOKoOgMPmWvcMpMrs8oRELl0EgD3PXOw39ckGHuueLpgaDqwh2tJNZcDYSusIcqx3p0JjF0kPQhqAZQJQeZgoZcSz&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">Read
+ more→ </a><span style="color: rgb(0, 84, 50); font-weight: bold; font-family: Arial, Verdana, Helvetica, sans-serif;">﻿</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--3 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 20px 10px 0px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0OVGaQFnYh4gyeaiejL6CtQ82Ol-Htplv6nklB3GIuQyg89BRFqzqH2y0aci3tzswHcsUMWS-10x_6lH7P82mjEY5Oppz4MpB1c4IXC_I-1pAMJc5TNdntsKJjUm0N-x7ZtTf7B3MKW3yAkK5-1MD6Gmy1e40EVv7%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671451973%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=G9PA0uTrgsD%2B8idKH%2BRG%2BhqK8eTYY4CUXqEqblsQ7RQ%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0OVGaQFnYh4gyeaiejL6CtQ82Ol-Htplv6nklB3GIuQyg89BRFqzqH2y0aci3tzswHcsUMWS-10x_6lH7P82mjEY5Oppz4MpB1c4IXC_I-1pAMJc5TNdntsKJjUm0N-x7ZtTf7B3MKW3yAkK5-1MD6Gmy1e40EVv7&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="200" src="https://files.constantcontact.com/2d45b397be/49efb4a8-23fe-4885-98fc-60115f8e0473.jpg?rdr=true" alt="Mateo Racini" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px 10px 0px;" align="left" valign="top">
+<p style="margin: 0;"><span style="color: rgb(0, 14, 8);">Student spotlight: </span>
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0OVGaQFnYh4gyeaiejL6CtQ82Ol-Htplv6nklB3GIuQyg89BRFqzqH2y0aci3tzswHcsUMWS-10x_6lH7P82mjEY5Oppz4MpB1c4IXC_I-1pAMJc5TNdntsKJjUm0N-x7ZtTf7B3MKW1sHhXJ9uiSYK2IWNVx2nY-%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671465086%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=ZACTNatTIbbsNUtebEPvWItVG9Eopp5I97Gni8fAmD4%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0OVGaQFnYh4gyeaiejL6CtQ82Ol-Htplv6nklB3GIuQyg89BRFqzqH2y0aci3tzswHcsUMWS-10x_6lH7P82mjEY5Oppz4MpB1c4IXC_I-1pAMJc5TNdntsKJjUm0N-x7ZtTf7B3MKW1sHhXJ9uiSYK2IWNVx2nY-&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">Mateo
+ Racini Serje</a><span style="color: rgb(0, 14, 8);">, a master's student, turned data into opportunity at Goldman Sachs</span>.<span style="color: rgb(0, 14, 8);">
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0OVGaQFnYh4gyeaiejL6CtQ82Ol-Htplv6nklB3GIuQyg89BRFqzqH2y0aci3tzswHcsUMWS-10x_6lH7P82mjEY5Oppz4MpB1c4IXC_I-1pAMJc5TNdntsKJjUm0N-x7ZtTf7B3MKW2aF5fFDC4Emd8tLd677sl_%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671478033%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=XlKr7zPR2AWLMUy1LUE9O1xQKLWqmynfnhtqxh3aSZ4%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0OVGaQFnYh4gyeaiejL6CtQ82Ol-Htplv6nklB3GIuQyg89BRFqzqH2y0aci3tzswHcsUMWS-10x_6lH7P82mjEY5Oppz4MpB1c4IXC_I-1pAMJc5TNdntsKJjUm0N-x7ZtTf7B3MKW2aF5fFDC4Emd8tLd677sl_&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="font-weight: bold; color: rgb(0, 84, 50); text-decoration: none;">Read
+ more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--3-column" style="background-color: #005432; table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#005432">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 0px 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0FieLQIIYHnks06ZyqoPtBEE0yaPEHpq4UpLbWD3_nZvsevJukcLwExphE7sDgRqoYRBiYFiHiCRwRqm-IBpf31rtZ_DGaf6QKk6vKzZoF37t-AkA5Xn58GPjzGtJf8tWgFMBakKfZS-FY9z4QKl7XSvOA0hjlZCdOqNIkNFXpSM%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671491087%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=1jWaPZkQ5zlJOVUwAZEiRQnhzJsfRvGzCkO0GvtamNo%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0FieLQIIYHnks06ZyqoPtBEE0yaPEHpq4UpLbWD3_nZvsevJukcLwExphE7sDgRqoYRBiYFiHiCRwRqm-IBpf31rtZ_DGaf6QKk6vKzZoF37t-AkA5Xn58GPjzGtJf8tWgFMBakKfZS-FY9z4QKl7XSvOA0hjlZCdOqNIkNFXpSM=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="200" src="https://files.constantcontact.com/2d45b397be/b3401d82-d44a-4230-93e8-b6837d65abb1.png?rdr=true" alt="international business forum" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 0px 10px 20px;" align="left" valign="top">
+<p style="margin: 0;"><span style="color: rgb(255, 255, 255);">Global engagement and competitiveness took center stage at the third annual USF International Business Forum.
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0FieLQIIYHnks06ZyqoPtBEE0yaPEHpq4UpLbWD3_nZvsevJukcLwExphE7sDgRqoYRBiYFiHiCRwRqm-IBpf31rtZ_DGaf6QKk6vKzZoF37t-AkA5Xn58GPjzGtJf8tWgFMBakKfZS-FY9z4QKl7XToYWN94FCnUkEq-TJmE9i4%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671504179%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=lBxTfAYLDgMqAtSgTsLJKeeRj3nfgOM%2FaCYfw%2FaHyWU%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0FieLQIIYHnks06ZyqoPtBEE0yaPEHpq4UpLbWD3_nZvsevJukcLwExphE7sDgRqoYRBiYFiHiCRwRqm-IBpf31rtZ_DGaf6QKk6vKzZoF37t-AkA5Xn58GPjzGtJf8tWgFMBakKfZS-FY9z4QKl7XToYWN94FCnUkEq-TJmE9i4=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Read
+ more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--2 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0Z3r8x_2DkgKj9WL-lXyQyEAeyoaRZhrAy5ehWCT-aSufyEOKOBnrpuDXR-xOLum_HRQKPS5shQ6TD49iasRunQ_JcpPEmBH3FkNSmz0JrQypUfon78-XpRmg7j_XZOsBCO-eC8Ih4m-dtCVioXYXNIzOyVBdLaw30ol2p_k6zD98A7kF31f436GsEuN8CRGr%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671517275%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=cPrdVlyGuu8X4jYW5nAU%2FdWlibDyl5mmMjNzeKhjOjE%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0Z3r8x_2DkgKj9WL-lXyQyEAeyoaRZhrAy5ehWCT-aSufyEOKOBnrpuDXR-xOLum_HRQKPS5shQ6TD49iasRunQ_JcpPEmBH3FkNSmz0JrQypUfon78-XpRmg7j_XZOsBCO-eC8Ih4m-dtCVioXYXNIzOyVBdLaw30ol2p_k6zD98A7kF31f436GsEuN8CRGr&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="200" src="https://files.constantcontact.com/2d45b397be/84250bb3-761b-4154-8cb1-de39732a4a88.png?rdr=true" alt="dean's advisory board leadership award winners" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px;" align="left" valign="top">
+<p style="margin: 0;"><span style="color: rgb(255, 255, 255);">Finance students João Vitor Dalla Zen and Sebastian Castro received the Dean's Advisory Board Leadership Award.
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0Z3r8x_2DkgKj9WL-lXyQyEAeyoaRZhrAy5ehWCT-aSufyEOKOBnrpuDXR-xOLum_HRQKPS5shQ6TD49iasRunQ_JcpPEmBH3FkNSmz0JrQypUfon78-XpRmg7j_XZOsBCO-eC8Ih4m-dtCVioXYXNIzOyVBdLaw30ol2p_k6zD8keeVwwALs83xq5Y6mPwUx%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671531335%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=k1KCcC2dbkMJxAIXQW3YoN0p5WScbIvI3%2BQWriRxLY8%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0Z3r8x_2DkgKj9WL-lXyQyEAeyoaRZhrAy5ehWCT-aSufyEOKOBnrpuDXR-xOLum_HRQKPS5shQ6TD49iasRunQ_JcpPEmBH3FkNSmz0JrQypUfon78-XpRmg7j_XZOsBCO-eC8Ih4m-dtCVioXYXNIzOyVBdLaw30ol2p_k6zD8keeVwwALs83xq5Y6mPwUx&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Read
+ more→ </a><span style="color: rgb(0, 84, 50); font-weight: bold; font-family: Arial, Verdana, Helvetica, sans-serif;">﻿</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--3 scale stack" style="width: 33.333333333333336%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 20px 10px 0px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0DHV--HbbBB5RDortNjzPoeRPoYwW1g3sf0-iDNwxWdd8jTEubktPV4SlES2Nk9L30IQnyRPl1SRZsnVcG3jzObe6-QfADjtSj2MSkKnI-uQ4-d9ajrvV9eoSGJGaVU1UdhTFt10W1GkvwcupRIR1dLYt8aEFkxVJ%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671601571%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=ilrlePdH8kDMdxhsdrdHbJrnXTUHZsTZWf751cz6BXg%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0DHV--HbbBB5RDortNjzPoeRPoYwW1g3sf0-iDNwxWdd8jTEubktPV4SlES2Nk9L30IQnyRPl1SRZsnVcG3jzObe6-QfADjtSj2MSkKnI-uQ4-d9ajrvV9eoSGJGaVU1UdhTFt10W1GkvwcupRIR1dLYt8aEFkxVJ&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="200" src="https://files.constantcontact.com/2d45b397be/21a11ca1-fe33-48cf-ab23-29a94c228475.jpg?rdr=true" alt="entrepalooza table" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px 10px 0px;" align="left" valign="top">
+<p style="margin: 0;"><span style="color: rgb(255, 255, 255); font-weight: normal;">Hillsborough County's young entrepreneurs showcased their big ideas and creativity at Entrepalooza 2026, held at USF.
+</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0DHV--HbbBB5RDortNjzPoeRPoYwW1g3sf0-iDNwxWdd8jTEubktPV4SlES2Nk9L30IQnyRPl1SRZsnVcG3jzObe6-QfADjtSj2MSkKnI-uQ4-d9ajrvV9eoSGJGaVU1UdhTFt10W1GmQKckLoJyglo4qqvU9NSRU%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671618796%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=CrTCiZ%2BMq%2BT05RS69OBt6KHXnJNgwu7q793KbJs6%2FiA%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0DHV--HbbBB5RDortNjzPoeRPoYwW1g3sf0-iDNwxWdd8jTEubktPV4SlES2Nk9L30IQnyRPl1SRZsnVcG3jzObe6-QfADjtSj2MSkKnI-uQ4-d9ajrvV9eoSGJGaVU1UdhTFt10W1GmQKckLoJyglo4qqvU9NSRU&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="font-weight: bold; color: rgb(255, 255, 255); text-decoration: none;">Read
+ more→</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--1-column" style="background-color: #EDEBD1; table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#EDEBD1">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 50%;" align="center" valign="top">
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px;" align="left" valign="top">
+<p style="text-align: center; margin: 0;" align="center"><span style="font-size: 26px; font-weight: bold;">Faculty Spotlights</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="line-height: 1.2; text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; display: block; word-wrap: break-word; padding: 10px 20px;" align="left" valign="top">
+<p style="margin: 0;"><span style="font-weight: bold;">Russell Clayton</span>, associate professor of instruction in the School of Management, received a USF World Excellence in Global Teaching and Learning Award.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Priya Dozier</span>, assistant professor of instruction in the Kate Tiedemann School of Business and Finance, received the 2026 USF Innovation in Online Design and Teaching Award.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Mauricio Palmeira</span>, associate professor in the School of Marketing, was quoted in the
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0_pgJBiqyHZf7EqkAmQxuIYUoGjswk_NM_ltDFd1Q1xZ1wHT2lT9toJDXKsnPVjsNlYTz-xmEpEAVz5PI0ss2B_HGL7GcCWMFC-eSKk8tgV07LN3MgN9jCVAg1NKer7xXf9YO7_hFtn-QaRkEHAmyVl5Z77pz1PgYRvDb2laLsTDMtCPxVeZ4UUpmyTSJcp5BeDKZdKhUjJcop6Z3TSHnOtsQeM9iojWDIXCGe55WRGA11VrK_Ei9w2zVR67AB17PIKb1srSP8wKtyJvYgVO70WijYvjd-Cbn5zDL8e49C8gw-LqXdZn1f-hhDOxB5rhTvxyPnD1BFAKf8jvC5xnTaW9KOjpUhePE3wmEeYlpCpIh8GmxGtX8PLf41p02v6O1Y4IxDRTdhuqiBpwqxMS3hmjeNMDCRfh-V6Tc7sCkMG8-g0ua5iLdow%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671633126%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=AmG5dKwjXU3xcivfRkA21iXz2cXAd5EfG9xs2R7J1N4%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0_pgJBiqyHZf7EqkAmQxuIYUoGjswk_NM_ltDFd1Q1xZ1wHT2lT9toJDXKsnPVjsNlYTz-xmEpEAVz5PI0ss2B_HGL7GcCWMFC-eSKk8tgV07LN3MgN9jCVAg1NKer7xXf9YO7_hFtn-QaRkEHAmyVl5Z77pz1PgYRvDb2laLsTDMtCPxVeZ4UUpmyTSJcp5BeDKZdKhUjJcop6Z3TSHnOtsQeM9iojWDIXCGe55WRGA11VrK_Ei9w2zVR67AB17PIKb1srSP8wKtyJvYgVO70WijYvjd-Cbn5zDL8e49C8gw-LqXdZn1f-hhDOxB5rhTvxyPnD1BFAKf8jvC5xnTaW9KOjpUhePE3wmEeYlpCpIh8GmxGtX8PLf41p02v6O1Y4IxDRTdhuqiBpwqxMS3hmjeNMDCRfh-V6Tc7sCkMG8-g0ua5iLdow==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="color: rgb(0, 84, 50); font-weight: bold; text-decoration: none;">
+Wall Street Journal</a> about recent research on the pitfalls of using AI as a second opinion for financial advising.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Jennifer Cainas</span>, associate dean for business operations and undergraduate programs, is a co-author and finalist in the 2026 Issues in Accounting Education Best Paper Award for “A Gamified Accounting
+ Activity: Experimental Evidence for the Influence of Game-Like Elements on Enjoyment, Engagement, and Learning.”</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Tim Smith</span>, assistant professor of instruction, received a School of Information Systems Faculty Leadership Award.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="button button--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; word-break: break-word;">
+<tbody>
+<tr>
+<td class="button_container content-padding-horizontal" style="padding: 10px 20px;" align="center">
+<table class="button_content-row" style="" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="button_content-cell button_link" style="background-color: #006748; width: inherit; border-radius: 0px; border-spacing: 0; max-width: 100%; color: #FFFFFF; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 16px; word-wrap: break-word; font-weight: bold; text-decoration: none; padding: 10px 40px; border-style: none;" align="center" bgcolor="#006748">
+<a class="button_link" href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMbVWYGPqEidF1R2TS2uCn0GfpzTkYW8LUT8OdyAQWfNUaUnZb8gHWPe_FrOtsUzf-FuycqF_awpxFIjkiJCZ0degofC0pbP6YcBRLyvUJBaV862TJehQI3-Ltqmb7wSje04Ry1HUDbEm9gS6CJNrTNQ%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671647647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=sRHhuyxQjVelj4XOgiwgCmXAnOrdHIZQeiQvGM5lBWI%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMbVWYGPqEidF1R2TS2uCn0GfpzTkYW8LUT8OdyAQWfNUaUnZb8gHWPe_FrOtsUzf-FuycqF_awpxFIjkiJCZ0degofC0pbP6YcBRLyvUJBaV862TJehQI3-Ltqmb7wSje04Ry1HUDbEm9gS6CJNrTNQ=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" target="_blank" data-trackable="true" style="color: #FFFFFF; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 16px; word-wrap: break-word; font-weight: bold; text-decoration: none;">View
+ more faculty notes</a> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--1 scale stack" style="width: 50%;" align="center" valign="top">
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px;" align="left" valign="top">
+<p style="text-align: center; margin: 0;" align="center"><span style="font-size: 26px; font-weight: bold;">Alumni Updates</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px;" align="left" valign="top">
+<p style="margin: 0;"><span style="font-weight: bold;">Ashlon Joshua</span> (‘17, EMBA) is chief clinical quality officer with the Florida Association of Community Health Centers.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Zhihao (Max) Yu</span> (‘21, PhD, Marketing) was promoted to associate professor at the University of Nebraska at Omaha.</p>
+<p style="margin: 0;">&nbsp;</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Patrick McMullen</span> (‘87, BS, Accounting) was appointed CEO of Phillips Infrastructure Corp. in Knoxville, TN.&nbsp;</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Daniel Klieman</span> (‘90, BS, Finance) founded Lonesome Rock Cellars winery in Oregon’s Coast Range.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Calvin Hagins</span> (‘86, BS, Finance) was elected to the Delta Sigma Pi Leadership Foundation Board of Trustees.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Amanda Baxter</span> (‘25, MBA, ‘22, BS, Marketing) joined Aveanna Healthcare as an account executive.&nbsp;</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;"><span style="font-weight: bold;">Diana Devitt</span> (‘13, BS, Marketing) is the director of revenue technology and operations for Lucid. She is a former USF Muma College of Business 25 Under 25 Award honoree.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="button button--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; word-break: break-word;">
+<tbody>
+<tr>
+<td class="button_container content-padding-horizontal" style="padding: 10px 20px;" align="center">
+<table class="button_content-row" style="" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="button_content-cell button_link" style="width: inherit; border-radius: 0px; border-spacing: 0; background-color: #006748; max-width: 100%; color: #FFFFFF; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 16px; word-wrap: break-word; font-weight: bold; text-decoration: none; padding: 10px 40px; border-style: none;" align="center" bgcolor="#006748">
+<a class="button_link" href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMbVWYGPqEidFoj_TSq3UL9zwg9vAWA-515X-s48qxiMbTltByhec11iXuBUfiZqkQG15fvYXuKXe_4HImbJValiSrDqdRCFxE5bMhPwVmHwqKmrzLPhWpe_CFIrxkfBiCsVY8Cy8inSA%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671660782%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=fO00DSG8uU0ESmGozz1%2FYTCI9ExyD1CHk5cb8uua7hs%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMbVWYGPqEidFoj_TSq3UL9zwg9vAWA-515X-s48qxiMbTltByhec11iXuBUfiZqkQG15fvYXuKXe_4HImbJValiSrDqdRCFxE5bMhPwVmHwqKmrzLPhWpe_CFIrxkfBiCsVY8Cy8inSA&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" target="_blank" data-trackable="true" style="color: #FFFFFF; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 16px; word-wrap: break-word; font-weight: bold; text-decoration: none;">View
+ more alumni notes</a> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--1-column" style="table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 100%;" align="center" valign="top">
+<div class="spacer" style="line-height: 20px; height: 20px;"> </div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout-margin" style="" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="layout-margin_cell" style="padding: 0px 20px;" align="center" valign="top">
+<table class="layout layout--2-column layout--divided" style="table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="column column--feature column--1 scale stack" style="width: 50%; background-color: #403f42;" align="center" valign="top" bgcolor="#403f42">
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px;" align="left" valign="top">
+<p style="text-align: center; margin: 0;" align="center"><span style="font-size: 26px; color: rgb(255, 255, 255); font-weight: bold;">In Other News</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="270" src="https://files.constantcontact.com/2d45b397be/c62830d4-094c-4cd0-ac62-c513203300a9.png?rdr=true" alt="" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--feature text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #ffffff; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px;" align="left" valign="top">
+<p style="margin: 0;">The French Association for Human Resource Management held its annual conference at Lynn Pippenger Hall on the USF St. Petersburg campus.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;">Centered on the theme &quot;Employee Well-being and Sustainable Performance,&quot; the event brought together 22 participants from France, along with one attendee from Colombia, for a rich exchange of ideas and scholarship.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;">The group announced plans to return to St. Petersburg in 2028, further strengthening USF's growing international academic partnerships.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="270" src="https://files.constantcontact.com/2d45b397be/16c0843b-7570-4ad8-a890-48d2685376f6.jpg?rdr=true" alt="hr conference" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column-divider scale stack" style="width: 20px; height: 20px; line-height: 1px;" align="center" valign="top">
+<img alt="" width="20" height="20" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/1101116784221/S.gif">
+</td>
+<td class="column column--feature column--2 scale stack" style="width: 50%; background-color: #403f42;" align="center" valign="top" bgcolor="#403f42">
+<table class="text text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px;" align="left" valign="top">
+<p style="text-align: center; margin: 0;" align="center"><span style="font-size: 26px; color: rgb(255, 255, 255); font-weight: bold;">Upcoming Calendar</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMXlTW-WX-UKFIIysOIlfT-mEkvMrJY3_nW_N1RTeL6HAX2PNZ3_EpaVulpNJMrzpFdZrRz7W_oV_iqrBigDlGdomLRJM2lg8dUDw5gIFxXTeoE3r4gp0pgvna13ZoRsa22cogD-o3cho%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671673936%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=5ilTf8UacPI2kYw25huIfo%2Fzl6aE8j4PDeSIRkC1wY0%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMXlTW-WX-UKFIIysOIlfT-mEkvMrJY3_nW_N1RTeL6HAX2PNZ3_EpaVulpNJMrzpFdZrRz7W_oV_iqrBigDlGdomLRJM2lg8dUDw5gIFxXTeoE3r4gp0pgvna13ZoRsa22cogD-o3cho&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="270" src="https://files.constantcontact.com/2d45b397be/050c1227-538e-4770-b980-9f56e3b4ba04.jpg?rdr=true" alt="" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text text--feature text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #ffffff; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px;" align="left" valign="top">
+<p style="margin: 0;">• April 17. 5-8 p.m. Bulls &amp; Brews by the Bay. USF St. Petersburg campus.
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMSI8tSkJYzgrjHPlzUfZALWdc-d8eQQLKQLe9XW10Oyr3AbaaHKolAOcZ57YXPIUMrFm3xNqVqUSM5XK9PnH7SO1aAs7Ikeity4EWnE-uq1m7ZDqoCIh8S7CSuWzmV7WmmJfHYiVQpy0Kv89QDegFx8%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671686832%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=gI9y%2B3ILVZ6kES%2BOgdXl8ZbF3yPQmVPtqitPyYK%2BJCk%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMSI8tSkJYzgrjHPlzUfZALWdc-d8eQQLKQLe9XW10Oyr3AbaaHKolAOcZ57YXPIUMrFm3xNqVqUSM5XK9PnH7SO1aAs7Ikeity4EWnE-uq1m7ZDqoCIh8S7CSuWzmV7WmmJfHYiVQpy0Kv89QDegFx8=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="text-decoration: underline; color: #ffffff; font-weight: bold;">
+Tickets</a>.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;">• April 21-23. Executive Certificate in Building High-Performing Teams. CAMLS.
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVX6uqsOXVLJczoJEOCEetN31qnbBzZGhgQ8IbqKjMXk7PSC9Scxq3WbXSOrIPFCSQy-SaxGMzWKdfYWSGa1xDh-nMG5A-x7iUz7Ppwo8Mg2P_KLfyJP4fac-Ie4jG94RHo1VkMntjMMnMSYkArEiQYvzcK7uTKw7FmmHzY7rU1hbHPiqgEOegtvBpeQRXwL2A%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671701378%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=Izv2FhKFPhk743C5YCj%2Ff%2Bwfu1g9Ye3rt1xMwyTry%2FQ%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVX6uqsOXVLJczoJEOCEetN31qnbBzZGhgQ8IbqKjMXk7PSC9Scxq3WbXSOrIPFCSQy-SaxGMzWKdfYWSGa1xDh-nMG5A-x7iUz7Ppwo8Mg2P_KLfyJP4fac-Ie4jG94RHo1VkMntjMMnMSYkArEiQYvzcK7uTKw7FmmHzY7rU1hbHPiqgEOegtvBpeQRXwL2A==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="text-decoration: underline; color: #ffffff; font-weight: bold;">
+Enroll</a>.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;">• April 23. 8:30-10 a.m. Conversation with a CEO featuring Bill Lombardo. The Tampa Club.
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMdp52N4JQhNlGEGfFCxtS1mbOyTvHFAzpx08Xj7NFPn-qVqiUjGSPH5Pj6Rfp5KP9yx-GHcqt9FljD3polWk2stg3pZe0Y_yhM5gtR10-ZdEFn1reltLshHiPM04gHDo_lpGDHYZ3Odv2B6Q0NOo6NkwMyXNuGxJDPr0uXdH4LBNwivUrP-jp4qb-OnKb96RJkAMJ_pIQByKeheZmYVpNERyPCgQ8Gy2X2NpjXMwEn7Lmyiz2J_DikI%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671716958%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=RtLCmJRLiTLHEjJihfasMIR4AjKCerT8tm88q2oidDY%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMdp52N4JQhNlGEGfFCxtS1mbOyTvHFAzpx08Xj7NFPn-qVqiUjGSPH5Pj6Rfp5KP9yx-GHcqt9FljD3polWk2stg3pZe0Y_yhM5gtR10-ZdEFn1reltLshHiPM04gHDo_lpGDHYZ3Odv2B6Q0NOo6NkwMyXNuGxJDPr0uXdH4LBNwivUrP-jp4qb-OnKb96RJkAMJ_pIQByKeheZmYVpNERyPCgQ8Gy2X2NpjXMwEn7Lmyiz2J_DikI=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="text-decoration: underline; color: #ffffff; font-weight: bold;">
+RSVP</a>.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;">• May 6. Noon-1 p.m. DBA Virtual Information Session. Online.
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0y8wR7WOo7BnVjbikYt79HJMUf5FOdJ7N_Dj2c7yCXokV-ogecJ5CAy6-AivOhx1fhAOACcPISdeRUs08YuuQZcOfUJdgvQANNfwrFe8uSSrc1qz1NBZmTGZaI54-KzeNIkJAsXCjNOI_gZzzviM9NJgvToPVMY-4NznzhtkbNWsniDNGeA9z5FKh3fK470Ph-fcP9PMS0mc%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671730862%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=wmR9oWcGIfzLLO01kP4h6Upon3XsN7nUpj%2FA0xepoM0%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0y8wR7WOo7BnVjbikYt79HJMUf5FOdJ7N_Dj2c7yCXokV-ogecJ5CAy6-AivOhx1fhAOACcPISdeRUs08YuuQZcOfUJdgvQANNfwrFe8uSSrc1qz1NBZmTGZaI54-KzeNIkJAsXCjNOI_gZzzviM9NJgvToPVMY-4NznzhtkbNWsniDNGeA9z5FKh3fK470Ph-fcP9PMS0mc=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="text-decoration: underline; color: #ffffff; font-weight: bold;">
+RSVP</a>.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;">• May 7-10. Spring Commencement. Yuengling Center. Tampa campus.
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMYjhB4kcXVsV0dfnDDzlmGMmpDubNTbJcsp4ZgufiftHIwUqXjrFuDdZby5M4tGIw1IX28QrWxabbNj0NbDrvcxCM1U-AtE7csH30RBPoYdSlHLShj1wJYGn3zptWyuUe45vMrvaCqB2aKOFZDFlFY8%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671744495%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=U%2Bz0MZ8YFdkdTIv%2B%2F4JYqLyWsnzSkI8tXycoZIr7fUQ%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMYjhB4kcXVsV0dfnDDzlmGMmpDubNTbJcsp4ZgufiftHIwUqXjrFuDdZby5M4tGIw1IX28QrWxabbNj0NbDrvcxCM1U-AtE7csH30RBPoYdSlHLShj1wJYGn3zptWyuUe45vMrvaCqB2aKOFZDFlFY8=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="text-decoration: underline; color: #ffffff; font-weight: bold;">
+Schedule</a>.</p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;">• May 13. 11:30 a.m.-1:30 p.m. Fourth Annual Florida SBDC at USF Business Awards. Marshall Student Center. Tampa campus.
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0_JBaqKiXVgp2-rqW0uxh_MNZgLQTMnBPisnTLmByx6VWCc7E_qgphlX51-eFqyz6DA2IIVnLkafHdUPkA1dibY0RlCEIffzE4rFQFSgDuoahxWNu_xyLyVgVQ2f1Ep7t2LHuU8BVnATdZ7x9uxrBSnVTxA5Y-Lxz7sjGbdtdK7aQ162a43AbDAYeaFl1rZVxGBPgXC1VjKwTl6bsRxgKNLbtFCtdVpzC0FR5l1vs-1na6d8nPRMGZsOPNZj525IKe0yIcBGSSja7zqsnzCUFa1L5OSyhWcisOEna_33Eyh6PUZt8xjLOQpdwC1u4uIt4994upTx8uI0lwLha85_miV3S_3jSC9twHK0dtoPcx4sd4mzAa0t4MMki3I3CTzGggePAzYqEicj9g0yzBmg20SFEC6qbJTQXhbB-6U6L3QupBaCxOjigILqfb_oBqO3VbwoPTK85IQd37JBpdHYryGDX06qrgTfd2Oyn7KArmR4gnRw97sMGoOzOihgRgzKh3GsTthftdl5VTPVewqAAUYe-SCUTa_4WGYSwoAfbliJH9ANfWn4DefJk_QxBvB95S3eGo9RQFSnj2O6tHFYCwCPczZzp2mXGsMxXdcqCB_chTyLAcbfi0NCCGHyuRLmKHsT-91q3ncn3Wpa5HyppvjyWF_T8RVyTFVFpWWQrdImzeKndGMcDsHNCbkE_5d_EK6HuGQxgXK8%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671758047%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=%2BL6X2Gd7xzGqTUv9qjqeAgVw1BuWP%2B3luxqFnGLuTSs%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMQs3g14eubu0_JBaqKiXVgp2-rqW0uxh_MNZgLQTMnBPisnTLmByx6VWCc7E_qgphlX51-eFqyz6DA2IIVnLkafHdUPkA1dibY0RlCEIffzE4rFQFSgDuoahxWNu_xyLyVgVQ2f1Ep7t2LHuU8BVnATdZ7x9uxrBSnVTxA5Y-Lxz7sjGbdtdK7aQ162a43AbDAYeaFl1rZVxGBPgXC1VjKwTl6bsRxgKNLbtFCtdVpzC0FR5l1vs-1na6d8nPRMGZsOPNZj525IKe0yIcBGSSja7zqsnzCUFa1L5OSyhWcisOEna_33Eyh6PUZt8xjLOQpdwC1u4uIt4994upTx8uI0lwLha85_miV3S_3jSC9twHK0dtoPcx4sd4mzAa0t4MMki3I3CTzGggePAzYqEicj9g0yzBmg20SFEC6qbJTQXhbB-6U6L3QupBaCxOjigILqfb_oBqO3VbwoPTK85IQd37JBpdHYryGDX06qrgTfd2Oyn7KArmR4gnRw97sMGoOzOihgRgzKh3GsTthftdl5VTPVewqAAUYe-SCUTa_4WGYSwoAfbliJH9ANfWn4DefJk_QxBvB95S3eGo9RQFSnj2O6tHFYCwCPczZzp2mXGsMxXdcqCB_chTyLAcbfi0NCCGHyuRLmKHsT-91q3ncn3Wpa5HyppvjyWF_T8RVyTFVFpWWQrdImzeKndGMcDsHNCbkE_5d_EK6HuGQxgXK8=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="text-decoration: underline; color: #ffffff; font-weight: bold;">
+Details</a>. </p>
+<p style="margin: 0;"><br>
+</p>
+<p style="margin: 0;">• May 21. USF Accounting Circle CPE Conference. Marshall Student Center. Tampa campus.&nbsp;<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMSI8tSkJYzgrnjCWMKofsVQUEfPfmx2X96X5bbbRfgJbPgWTmtxhjagLKZzspSWr99T3Ys0WBPD0es6Cgvtb2SL_vJ5KNEzktlARk27FjgE8P_RjYSvIJJW5pOf4Hh-yc-CrsIy1wnFNchbukMp1wYk%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671771899%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=NnGLY%2BfpTCmTZWv2u2OIp2lL1qXrnzmESawfj%2FLPRwk%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMSI8tSkJYzgrnjCWMKofsVQUEfPfmx2X96X5bbbRfgJbPgWTmtxhjagLKZzspSWr99T3Ys0WBPD0es6Cgvtb2SL_vJ5KNEzktlARk27FjgE8P_RjYSvIJJW5pOf4Hh-yc-CrsIy1wnFNchbukMp1wYk=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" rel="noopener noreferrer" target="_blank" style="text-decoration: underline; color: #ffffff; font-weight: bold;">Register</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--1-column" style="table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 100%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVX6uqsOXVLJczoJEOCEetN31qnbBzZGhgQ8IbqKjMXk7PSC9Scxq3WbXSOrIPFCSQy-SaxGMzWKdfYWSGa1xDh-nMG5A-x7iUz7Ppwo8Mg2P_KLfyJP4fac-Ie4jG94RHo1VkMntjMMnMSYkArEiQYvzcK7uTKw7FmmHzY7rU1hxRRS7CKq6-0zksXtWaVqXg%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671785370%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=lqYs66qXWgGLE5D4i%2FzfpywP4BTFZeSQJfoTLqhha0Q%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVX6uqsOXVLJczoJEOCEetN31qnbBzZGhgQ8IbqKjMXk7PSC9Scxq3WbXSOrIPFCSQy-SaxGMzWKdfYWSGa1xDh-nMG5A-x7iUz7Ppwo8Mg2P_KLfyJP4fac-Ie4jG94RHo1VkMntjMMnMSYkArEiQYvzcK7uTKw7FmmHzY7rU1hxRRS7CKq6-0zksXtWaVqXg==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="640" src="https://files.constantcontact.com/2d45b397be/040cdf98-41fa-43da-98e3-5ae469926619.gif?rdr=true" alt="" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--1-column" style="background-color: #403f42; table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#403f42">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 100%;" align="center" valign="top">
+<div class="spacer" style="line-height: 20px; height: 20px;"> </div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--2-column" style="background-color: #403f42; table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#403f42">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 57.5%;" align="center" valign="top">
+<table class="image image--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="image_container content-padding-horizontal" style="padding: 10px 10px 10px 20px;" align="center" valign="top">
+<table class="image_container-caption text" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell" style="text-align: -webkit-center; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 0px;" align="center">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVWPVZHIhUfV2Qrv79X6MoIrKjZ4K_DwkF__Pscr714R0_uhrdfmVJ8I6XZbkgtQAjoASBKVbHCfyk18P2dlQvlBQ_s1iYAQgSe5_-bJ3SXBhUFucr6-gco%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671799268%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=c%2BpWJ9NXCJQV5zdX7dPSAhco9e6sf2h%2FR8Spfqgipvo%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVWPVZHIhUfV2Qrv79X6MoIrKjZ4K_DwkF__Pscr714R0_uhrdfmVJ8I6XZbkgtQAjoASBKVbHCfyk18P2dlQvlBQ_s1iYAQgSe5_-bJ3SXBhUFucr6-gco=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true" style="color: #006748; font-weight: bold; text-decoration: none;"><img data-image-content="" class="image_content" style="display: block; height: auto; max-width: 100%;" width="361" src="https://files.constantcontact.com/2d45b397be/304df24f-0463-4a4d-8857-e06a41469920.png?rdr=true" alt="" align="center"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="socialFollow socialFollow--padding-vertical" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td class="socialFollow_container content-padding-horizontal" style="height: 1px; line-height: 1px; padding: 10px 10px 10px 20px;" width="100%" align="center" valign="top">
+<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMcEgYssLJiho96lSUi7ZXR5zRckG_X79--y1CEn8RKZqTTTKr6LVSJ-EY4xBBCFBVcYh_nATNeJzXnBko1_lpn8yVkjEd1wCKoCzbXN7rqTi%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671813082%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=qlVhjUOX9t6icr22DCdcTnNDMhDRN23iaLum7kQdRwM%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMcEgYssLJiho96lSUi7ZXR5zRckG_X79--y1CEn8RKZqTTTKr6LVSJ-EY4xBBCFBVcYh_nATNeJzXnBko1_lpn8yVkjEd1wCKoCzbXN7rqTi&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="true"><img class="socialFollow_icon" alt="Facebook" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/squares/squareColor_Facebook_v4.png" style="display: inline-block; margin: 0; padding: 0;"></a>
+ &nbsp; &nbsp; &nbsp;<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVWUrikl64qT3tc8s1DKb0u9S4h1x91gWzYwriABuPkPurAlQ_TO5WAmnUy0x3m4_vYY9qF-ktR8KAWv6Lzdm6dBzung0gcGuyoMOeHfYYxJAeLt8ygs2FGwrmSd6oCJqzv_q6oKChHy9OIW7IGyXdq8-lnVpxpkhHhgiAo1OfBpexMxMOZEb3Q%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671826611%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=PvkDZ1tmHB1pm2Lj5T94xQgugLO4TlGX8xI2CIovhCw%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMVWUrikl64qT3tc8s1DKb0u9S4h1x91gWzYwriABuPkPurAlQ_TO5WAmnUy0x3m4_vYY9qF-ktR8KAWv6Lzdm6dBzung0gcGuyoMOeHfYYxJAeLt8ygs2FGwrmSd6oCJqzv_q6oKChHy9OIW7IGyXdq8-lnVpxpkhHhgiAo1OfBpexMxMOZEb3Q=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="false"><img class="socialFollow_icon" alt="LinkedIn" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/squares/squareColor_LinkedIn_v4.png" style="display: inline-block; margin: 0; padding: 0;"></a>
+ &nbsp; &nbsp; &nbsp;<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMekkrLJ_FX1EIu4PJf-LrWj9lACfkh8PMJI9iAfoa9M12ou-_2VLy2iJx3L89JeLm8YQTMc2TPxURqy64Da2EwYt7HzJHCO-Svlbr__yC48IAWA4JfJqYUM%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671839686%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=hjZZ9aozCVzN4pTD9kLdSJI7jT51kk8IXlpkVT8Xq4s%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMekkrLJ_FX1EIu4PJf-LrWj9lACfkh8PMJI9iAfoa9M12ou-_2VLy2iJx3L89JeLm8YQTMc2TPxURqy64Da2EwYt7HzJHCO-Svlbr__yC48IAWA4JfJqYUM=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="false"><img class="socialFollow_icon" alt="Instagram" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/squares/squareColor_Instagram_v4.png" style="display: inline-block; margin: 0; padding: 0;"></a>
+ &nbsp; &nbsp; &nbsp;<a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMe9uZh8Z7W4WVlvtofIwHmf3p3NJLQGNlmtcEyECSXaidRXipVtJLC4-o43Cps8MvnMpq_Li02OiC1x613BK5bDk2UKW-e3SSWcO-PEUDxVlPN29ZkhAzaWG13GRLQRCZHWYU-JrwAk0mcj0Zh0J-Kk%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671852967%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=qwc6aMnOhD%2FRci%2BvKbBckM%2FuaYyeTajcQwF16SMz0cc%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMe9uZh8Z7W4WVlvtofIwHmf3p3NJLQGNlmtcEyECSXaidRXipVtJLC4-o43Cps8MvnMpq_Li02OiC1x613BK5bDk2UKW-e3SSWcO-PEUDxVlPN29ZkhAzaWG13GRLQRCZHWYU-JrwAk0mcj0Zh0J-Kk=&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" data-trackable="false"><img class="socialFollow_icon" alt="YouTube" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/squares/squareColor_YouTube_v4.png" style="display: inline-block; margin: 0; padding: 0;"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="column column--2 scale stack" style="width: 42.5%;" align="center" valign="top">
+<table class="text text--article text--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+<tbody>
+<tr>
+<td class="text_content-cell content-padding-horizontal" style="text-align: left; font-family: Arial,Verdana,Helvetica,sans-serif; color: #000000; font-size: 16px; line-height: 1.2; display: block; word-wrap: break-word; padding: 10px 20px 10px 10px;" align="left" valign="top">
+<p style="text-align: center; margin: 0;" align="center"><span style="color: rgb(255, 255, 255);">4202 E. Fowler Avenue</span></p>
+<p style="text-align: center; margin: 0;" align="center"><span style="color: rgb(255, 255, 255);">Tampa, FL 33620</span></p>
+<p style="text-align: center; margin: 0;" align="center"><a href="tel:813-974-2011" target="_blank" style="color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">813-974-2011</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="button button--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; word-break: break-word;">
+<tbody>
+<tr>
+<td class="button_container content-padding-horizontal" style="padding: 10px 20px 10px 10px;" align="center">
+<table class="button_content-row" style="" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="button_content-cell button_link" style="width: inherit; border-radius: 0px; border-spacing: 0; background-color: #006748; max-width: 100%; color: #FFFFFF; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 16px; word-wrap: break-word; font-weight: bold; text-decoration: none; padding: 10px 40px; border-style: none;" align="center" bgcolor="#006748">
+<a class="button_link" href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsgvwt7n6.cc.rs6.net%2Ftn.jsp%3Ff%3D0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMYhq1k9pgfjcLn3wrt13Ycs4MU4xpKzJtoSs6WBL44DdkDQLJA-TSscGizr47aDUa-a_IbSbmQitVUqz36nuoM4zwDmsAwNQC9gYUKmKJzliwG-SlctJ_alwl7BfrZLWHQ%3D%3D%26c%3DDUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA%3D%3D%26ch%3D9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw%3D%3D&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671868985%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=fSbznfHnQHzILWvuXikzyFzK%2BTx87qRLnj4LC%2BhIhxM%3D&amp;reserved=0" originalsrc="https://sgvwt7n6.cc.rs6.net/tn.jsp?f=0011xiggrqm9_1PUzOqCLet87le9TkrPE1KMwjKfrvHxdpOpQ7UyWqxMYhq1k9pgfjcLn3wrt13Ycs4MU4xpKzJtoSs6WBL44DdkDQLJA-TSscGizr47aDUa-a_IbSbmQitVUqz36nuoM4zwDmsAwNQC9gYUKmKJzliwG-SlctJ_alwl7BfrZLWHQ==&amp;c=DUgnlmXUyVGKaJjOaIp54fBwSLsCecWr2JU1y_IAIrfRErYxLEWwdA==&amp;ch=9kajZUGKh2OaQ8gMSqud4r8mCQpj393nLAlZ0lqTVaK5hihRMxDSTw==" target="_blank" data-trackable="true" style="color: #FFFFFF; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 16px; word-wrap: break-word; font-weight: bold; text-decoration: none;">Connect
+ With Us</a> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="layout layout--1-column" style="background-color: #403f42; table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#403f42">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 100%;" align="center" valign="top">
+<div class="spacer" style="line-height: 20px; height: 20px;"> </div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="">
+<td class="shell_panel-cell shell_panel-cell--footer" style="background-color: #FFFFFF;" align="center" valign="top" bgcolor="#FFFFFF">
+<table class="shell_width-row scale" style="width: 700px;" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="shell_width-cell" style="padding: 0px 10px;" align="center" valign="top">
+<table class="shell_content-row" width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="shell_content-cell" style="background-color: transparent; padding: 0; border: 0 solid #333454;" align="center" valign="top" bgcolor="transparent">
+<table class="layout layout--1-column" style="table-layout: fixed;" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="column column--1 scale stack" style="width: 100%;" align="center" valign="top">
+<table class="complianceAddress complianceAddress--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="complianceAddress_content-cell content-padding-horizontal" align="center" style="color: #595959; font-family: Verdana,Geneva,sans-serif; font-size: 12px; line-height: 1.2; padding: 10px 20px;">
+<p style="margin: 0;"><span>University of South Florida Muma College of Business |
+</span><span>4202 E. Fowler Ave., BSN 3403</span><span> | </span><span>Tampa, FL 33620 US</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="complianceLinks complianceLinks--padding-vertical" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="complianceLinks_content-cell content-padding-horizontal" align="center" style="color: #595959; font-family: Verdana,Geneva,sans-serif; font-size: 12px; line-height: 1.2; padding: 10px 20px;">
+<p style="margin: 0;"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Faudience.constantcontact.com%2Fpreferences%2Funsubscribe%3Fm%3D001YWckSO6dopEk2Kf_u0mshQ%3D%3D%26c%3D6c845858-a067-11f0-878d-fa163e804f0c%26ca%3D7dc9eecc-964b-4e6e-8e62-bcc509445576&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671882519%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=EJqIorNsWAieJrvYtIzCT%2B%2Bsa%2FLBq5DjHsIloapWzsY%3D&amp;reserved=0" originalsrc="https://audience.constantcontact.com/preferences/unsubscribe?m=001YWckSO6dopEk2Kf_u0mshQ==&amp;c=6c845858-a067-11f0-878d-fa163e804f0c&amp;ca=7dc9eecc-964b-4e6e-8e62-bcc509445576" data-track="false" style="color: inherit;">Unsubscribe<span></span></a><span>
+ | </span><span></span><span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Faudience.constantcontact.com%2Fpreferences%2Fupdate%2Finit%3Fch%3D6c852fa8-a067-11f0-878d-fa163e804f0c%26c%3D6c845858-a067-11f0-878d-fa163e804f0c%26t%3D001bTyCDqApX7JY-ouhXsz4sA%3D%3D%26m%3D001YWckSO6dopEk2Kf_u0mshQ%3D%3D%26ca%3D7dc9eecc-964b-4e6e-8e62-bcc509445576&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671895532%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3JQX68j18FcQwyeKytYCowbPfOaH39Ylrsl1zE14eU0%3D&amp;reserved=0" originalsrc="https://audience.constantcontact.com/preferences/update/init?ch=6c852fa8-a067-11f0-878d-fa163e804f0c&amp;c=6c845858-a067-11f0-878d-fa163e804f0c&amp;t=001bTyCDqApX7JY-ouhXsz4sA==&amp;m=001YWckSO6dopEk2Kf_u0mshQ==&amp;ca=7dc9eecc-964b-4e6e-8e62-bcc509445576" data-track="false" style="color: inherit;">Update
+ Profile</a></span><span> | </span><span><span></span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.constantcontact.com%2Flegal%2Fcustomer-contact-data-notice&amp;data=05%7C02%7Caaromero%40ncat.edu%7C9a7981c06e3b4cab752a08de9b220973%7Cd844dd75a4d74b1fbd33bc0b1c796c38%7C0%7C0%7C639118767671908605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=a4oPD5nV2Z1oDk0ISZJAWRUwcYVMa3KrZrVBQYFpDKA%3D&amp;reserved=0" originalsrc="https://www.constantcontact.com/legal/customer-contact-data-notice" data-track="false" style="color: inherit;">Constant Contact Data Notice</a></span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</body>
+</html>
