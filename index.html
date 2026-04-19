@@ -13,10 +13,14 @@
       color: #222;
     }
     .email {
-      max-width: 650px;
+      max-width: 780px;
       margin: 0 auto;
-      background: #ffffff;
+      background: #004684;
       box-shadow: 0 4px 24px rgba(0,0,0,0.18);
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
     }
 
     /* ══════════════════════════════════════
@@ -95,23 +99,26 @@
       background: #FDB927;
       padding: 22px 36px;
     }
-    .aei-inner {
+    .aei-header {
       display: flex;
+      flex-direction: column;
       align-items: center;
-      justify-content: space-between;
-      gap: 20px;
+      text-align: center;
+      gap: 10px;
+      padding-bottom: 14px;
+      margin-bottom: 16px;
+      border-bottom: 1.5px solid rgba(0,70,132,0.25);
     }
-    .aei-left { flex: 0 0 auto; }
     .aei-eyebrow {
       font-size: 9px;
       letter-spacing: 2px;
       color: #004684;
       font-weight: bold;
       text-transform: uppercase;
-      margin-bottom: 2px;
+      width: 100%;
     }
     .aei-value {
-      font-size: 70px;
+      font-size: 56px;
       font-weight: 900;
       color: #004684;
       line-height: 1;
@@ -121,13 +128,14 @@
       font-size: 10px;
       color: #004684;
       opacity: 0.6;
-      margin-top: 1px;
-      margin-bottom: 10px;
+      display: block;
+      margin-top: 2px;
+      font-weight: normal;
     }
     .aei-pills {
       display: flex;
       gap: 8px;
-      margin-bottom: 10px;
+      justify-content: center;
     }
     .aei-pill {
       background: #004684;
@@ -137,10 +145,15 @@
       padding: 3px 8px;
       letter-spacing: 0.5px;
     }
+    .aei-inner {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+    .aei-left { flex: 0 0 40%; }
     .aei-verdict {
       font-size: 12px;
       color: #004684;
-      max-width: 265px;
       line-height: 1.55;
       font-style: italic;
       margin-bottom: 10px;
@@ -153,7 +166,7 @@
       border-bottom: 1.5px solid #004684;
       padding-bottom: 1px;
     }
-    .aei-right { flex: 1 1 auto; text-align: right; }
+    .aei-right { flex: 1 1 auto; text-align: right; min-width: 0; }
     .chart-label {
       font-size: 8.5px;
       letter-spacing: 1.5px;
@@ -162,13 +175,23 @@
       font-weight: bold;
       margin-bottom: 5px;
     }
-    .aei-right svg { display: block; margin-left: auto; }
+    .chart-wrap { display: block; width: 100%; }
+    .aei-right svg { display: block; width: 100%; height: auto; }
     .quarter-labels {
       display: flex;
       justify-content: space-between;
       margin-top: 5px;
     }
     .quarter-labels span { font-size: 8px; color: #004684; opacity: 0.6; }
+
+    @media (max-width: 520px) {
+      .aei-banner { padding: 18px 20px; }
+      .aei-inner { flex-direction: column; }
+      .aei-left { width: 100%; }
+      .aei-right { width: 100%; text-align: left; margin-top: 16px; }
+      .aei-right svg { margin-left: 0; width: 100%; }
+      .aei-verdict { max-width: 100%; }
+    }
 
     /* ══════════════════════════════════════
        SHARED SECTION
@@ -322,6 +345,37 @@
     .research-item {
       background: #ffffff;
       border-top: 3px solid #004684;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .research-img-col {
+      width: 100%;
+      height: 180px;
+      overflow: hidden;
+      flex-shrink: 0;
+      background: #d8d4c8;
+    }
+    .research-img-col img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      object-position: center;
+      display: block;
+    }
+    .research-img-placeholder {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 9px;
+      color: #004684;
+      opacity: 0.5;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .research-text-col {
       padding: 14px;
     }
     .research-author {
@@ -525,26 +579,24 @@
   </div>
 
   <!-- ══ HERO IMAGE ══ -->
-  <div class="hero-placeholder">
-    <div class="ph-icon">🖼</div>
-    <div class="ph-text">Hero Image</div>
-    <div class="ph-sub">Suggested: Student Recognition Gala — March 14, 2026</div>
-  </div>
+  <img src="IMAGES/hero-image-clock.png" alt="Hero Image" style="width:100%;display:block;" />
 
   <!-- ══ 2. AEI BANNER ══ -->
   <div class="aei-banner">
-    <div class="aei-inner">
 
+    <div class="aei-header">
+      <div class="aei-eyebrow">Piedmont Triad Economic Activity Index</div>
+      <div class="aei-value">107.4 <span class="aei-baseline">2019 = 100</span></div>
+      <div class="aei-pills">
+        <span class="aei-pill">Momentum 63</span>
+        <span class="aei-pill">Flat · +0.1% avg</span>
+      </div>
+    </div>
+
+    <div class="aei-inner">
       <div class="aei-left">
-        <div class="aei-eyebrow">Piedmont Triad Economic Activity Index</div>
-        <div class="aei-value">107.4</div>
-        <div class="aei-baseline">2019 = 100</div>
-        <div class="aei-pills">
-          <span class="aei-pill">Momentum 62.7</span>
-          <span class="aei-pill">Flat · +0.1% avg</span>
-        </div>
         <div class="aei-verdict">
-          As of March 2026, the Triad economy stands at 107.4 — 7.4 points above its pre-pandemic baseline. Growth is in <em>Flat</em>, with a 3-month average rate of 0.1% and a momentum score of 62.7 out of 100. Labor utilization registers 98.1, below the 2019 norm. The two most recent months are model-based estimates bridging the BLS publication lag.
+          The Triad economy ends Q1 2026 at 107.4 — fully above its pre-pandemic level and holding steady. Growth is <em>Flat</em>, meaning the region is expanding at a normal, sustainable pace. Hours worked remain slightly below 2019 norms, a signal worth watching. The 2 most recent months are model-based estimates.
         </div>
         <div class="aei-cta"><a href="#">Read the full AEI report &rarr;</a></div>
       </div>
@@ -557,7 +609,8 @@
           Q2'25: 106.301  Q3'25: 106.741  Q4'25: 107.116  Q1'26: 107.355
           SVG 240×80, y: 65 - ((v - 105.499) / 1.856) * 60
         -->
-        <svg width="240" height="80" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
+        <div class="chart-wrap">
+        <svg height="80" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;">
           <!-- Grid -->
           <line x1="0" y1="70" x2="240" y2="70" stroke="#004684" stroke-opacity="0.2" stroke-width="1"/>
           <line x1="0" y1="37" x2="240" y2="37" stroke="#004684" stroke-opacity="0.10" stroke-width="1" stroke-dasharray="3,3"/>
@@ -565,7 +618,7 @@
           <!-- Area fill -->
           <polygon
             points="0,65 34,61 69,56 103,52 137,39 171,25 206,13 240,5 240,70 0,70"
-            fill="#004684" fill-opacity="0.13"/>
+            fill="#ffffff" fill-opacity="0.35"/>
           <!-- Sparkline -->
           <polyline
             points="0,65 34,61 69,56 103,52 137,39 171,25 206,13 240,5"
@@ -586,6 +639,7 @@
         <div class="quarter-labels">
           <span>Q2'24</span><span>Q3'24</span><span>Q4'24</span><span>Q1'25</span>
           <span>Q2'25</span><span>Q3'25</span><span>Q4'25</span><span>Q1'26</span>
+        </div>
         </div>
       </div>
 
@@ -639,33 +693,51 @@
     <div class="research-grid">
 
       <div class="research-item">
-        <img src="FOURTH-FLOOR/2026-Q1/IMG/john%20ng_ombe.jpg" alt="Dr. John Ng'ombe" style="width:38px;height:38px;border-radius:50%;object-fit:cover;margin-bottom:6px;display:block;" />
-        <div class="research-author">Dr. John Ng'ombe</div>
-        <div class="research-title">AI and Machine Learning in Development Economics</div>
-        <div class="research-blurb">Applying supervised machine learning to examine climate change awareness among rural farmers in Zambia — linking data science with global food security.</div>
-        <div class="research-journal">Agrekon, 2026</div>
+        <div class="research-img-col">
+          <img src="FOURTH-FLOOR/2026-Q1/IMG/john%20ng_ombe.jpg" alt="Dr. John Ng'ombe" />
+        </div>
+        <div class="research-text-col">
+          <div class="research-author">Dr. John Ng'ombe</div>
+          <div class="research-title">AI and Machine Learning in Development Economics</div>
+          <div class="research-blurb">Applying supervised machine learning to examine climate change awareness among rural farmers in Zambia — linking data science with global food security.</div>
+          <div class="research-journal">Agrekon, 2026</div>
+        </div>
       </div>
 
       <div class="research-item">
-        <div class="research-author">Dr. Meg Weber</div>
-        <div class="research-title">Impostor Feelings and Capital Exchange</div>
-        <div class="research-blurb">Awarded Best Empirical Research Paper at USASBE 2026 and the Emerging Scholar Award from the Minority &amp; Women in Entrepreneurship SIG.</div>
-        <div class="research-journal">USASBE Annual Conference, 2026</div>
+        <div class="research-img-col">
+          <div class="research-img-placeholder">Photo</div>
+        </div>
+        <div class="research-text-col">
+          <div class="research-author">Dr. Meg Weber</div>
+          <div class="research-title">Impostor Feelings and Capital Exchange</div>
+          <div class="research-blurb">Awarded Best Empirical Research Paper at USASBE 2026 and the Emerging Scholar Award from the Minority &amp; Women in Entrepreneurship SIG.</div>
+          <div class="research-journal">USASBE Annual Conference, 2026</div>
+        </div>
       </div>
 
       <div class="research-item">
-        <img src="FOURTH-FLOOR/2026-Q1/IMG/kurkalova-nasa.jpg" alt="Dr. Kurkalova" style="width:38px;height:38px;border-radius:50%;object-fit:cover;margin-bottom:6px;display:block;" />
-        <div class="research-author">Dr. Kurkalova</div>
-        <div class="research-title">$2M+ in Active Research Grants</div>
-        <div class="research-blurb">Co-leading two funded projects mentoring NC A&amp;T students in ArcGIS and geospatial analysis, supported in part by a Honda CSR grant.</div>
-        <div class="research-journal">Honda CSR Grant · Active 2026</div>
+        <div class="research-img-col">
+          <img src="FOURTH-FLOOR/2026-Q1/IMG/kurkalova-nasa.jpg" alt="Dr. Kurkalova" />
+        </div>
+        <div class="research-text-col">
+          <div class="research-author">Dr. Kurkalova</div>
+          <div class="research-title">$2M+ in Active Research Grants</div>
+          <div class="research-blurb">Co-leading two funded projects mentoring NC A&amp;T students in ArcGIS and geospatial analysis, supported in part by a Honda CSR grant.</div>
+          <div class="research-journal">Honda CSR Grant · Active 2026</div>
+        </div>
       </div>
 
       <div class="research-item">
-        <div class="research-author">Dr. Adelle Bish</div>
-        <div class="research-title">Feedback as a Driver of Workplace Inclusion</div>
-        <div class="research-blurb">Research on feedback mechanisms advancing inclusion accepted for presentation at the Society for Industrial and Organizational Psychology annual meeting.</div>
-        <div class="research-journal">SIOP Annual Meeting · New Orleans, April 2026</div>
+        <div class="research-img-col">
+          <div class="research-img-placeholder">Photo</div>
+        </div>
+        <div class="research-text-col">
+          <div class="research-author">Dr. Adelle Bish</div>
+          <div class="research-title">Feedback as a Driver of Workplace Inclusion</div>
+          <div class="research-blurb">Research on feedback mechanisms advancing inclusion accepted for presentation at the Society for Industrial and Organizational Psychology annual meeting.</div>
+          <div class="research-journal">SIOP Annual Meeting · New Orleans, April 2026</div>
+        </div>
       </div>
 
     </div>
