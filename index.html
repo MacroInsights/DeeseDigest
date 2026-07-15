@@ -28,27 +28,105 @@
     ══════════════════════════════════════ */
     .header {
       background: #004684;
-      padding: 18px 36px;
+      padding: 36px 44px;
       display: flex;
       align-items: center;
       justify-content: space-between;
+      position: relative;
+      overflow: hidden;
+      min-height: 160px;
     }
-    .header img { height: 62px; width: auto; }
-    .header-title { text-align: right; }
-    .header-title .name {
-      font-size: 30px;
-      font-weight: 900;
-      color: #FDB927;
-      letter-spacing: 3px;
-      text-transform: uppercase;
+    .header::before {
+      content: '';
+      position: absolute;
+      top: -60px; right: -60px;
+      width: 220px; height: 220px;
+      border-radius: 50%;
+      border: 28px solid rgba(253,185,39,0.08);
+      pointer-events: none;
     }
-    .header-title .sub {
+    .header::after {
+      content: '';
+      position: absolute;
+      bottom: -80px; right: 120px;
+      width: 180px; height: 180px;
+      border-radius: 50%;
+      border: 20px solid rgba(255,255,255,0.04);
+      pointer-events: none;
+    }
+    .header-geo-line {
+      position: absolute;
+      left: 0; bottom: 0; right: 0;
+      height: 4px;
+      background: #FDB927;
+    }
+    .header-logo-col {
+      flex: 0 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      position: relative;
+      z-index: 1;
+    }
+    .header img { height: 88px; width: auto; }
+    .header-logo-divider {
+      width: 1.5px;
+      height: 70px;
+      background: rgba(253,185,39,0.35);
+    }
+    .header-logo-text {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .header-college-name {
       font-size: 10px;
+      color: #FDB927;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-weight: bold;
+      opacity: 0.9;
+      line-height: 1.6;
+    }
+    .header-university-name {
+      font-size: 9px;
       color: #ffffff;
       letter-spacing: 1.5px;
       text-transform: uppercase;
-      margin-top: 3px;
-      opacity: 0.85;
+      opacity: 0.55;
+    }
+    .header-title-col {
+      text-align: right;
+      position: relative;
+      z-index: 1;
+    }
+    .header-title-col .name {
+      font-size: 48px;
+      font-weight: 900;
+      color: #FDB927;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      line-height: 1;
+    }
+    .header-issue-row {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 10px;
+      margin-top: 8px;
+    }
+    .header-issue-rule {
+      flex: 0 0 40px;
+      height: 1.5px;
+      background: #FDB927;
+      opacity: 0.5;
+    }
+    .header-issue-label {
+      font-size: 10px;
+      color: #ffffff;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      opacity: 0.7;
     }
 
     /* ══════════════════════════════════════
@@ -97,17 +175,18 @@
     ══════════════════════════════════════ */
     .aei-banner {
       background: #FDB927;
-      padding: 22px 36px;
+      padding: 20px 36px;
     }
-    .aei-header {
+    .aei-cols {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+    .aei-left {
+      flex: 0 0 auto;
       display: flex;
       flex-direction: column;
-      align-items: center;
-      text-align: center;
       gap: 10px;
-      padding-bottom: 14px;
-      margin-bottom: 16px;
-      border-bottom: 1.5px solid rgba(0,70,132,0.25);
     }
     .aei-eyebrow {
       font-size: 9px;
@@ -115,7 +194,7 @@
       color: #004684;
       font-weight: bold;
       text-transform: uppercase;
-      width: 100%;
+      opacity: 0.75;
     }
     .aei-value {
       font-size: 56px;
@@ -127,46 +206,45 @@
     .aei-baseline {
       font-size: 10px;
       color: #004684;
-      opacity: 0.6;
+      opacity: 0.55;
       display: block;
       margin-top: 2px;
       font-weight: normal;
     }
     .aei-pills {
       display: flex;
-      gap: 8px;
-      justify-content: center;
+      flex-direction: column;
+      gap: 5px;
     }
     .aei-pill {
       background: #004684;
       color: #FDB927;
       font-size: 10px;
       font-weight: bold;
-      padding: 3px 8px;
+      padding: 3px 10px;
       letter-spacing: 0.5px;
-    }
-    .aei-inner {
-      display: flex;
-      align-items: center;
-      gap: 20px;
-    }
-    .aei-left { flex: 0 0 40%; }
-    .aei-verdict {
-      font-size: 12px;
-      color: #004684;
-      line-height: 1.55;
-      font-style: italic;
-      margin-bottom: 10px;
+      display: inline-block;
+      align-self: flex-start;
     }
     .aei-cta a {
       color: #004684;
-      font-size: 11px;
+      font-size: 10px;
       font-weight: bold;
       text-decoration: none;
       border-bottom: 1.5px solid #004684;
       padding-bottom: 1px;
+      opacity: 0.75;
     }
-    .aei-right { flex: 1 1 auto; text-align: right; min-width: 0; }
+    .aei-divider {
+      width: 1.5px;
+      align-self: stretch;
+      background: rgba(0,70,132,0.2);
+      flex-shrink: 0;
+    }
+    .aei-right {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
     .chart-label {
       font-size: 8.5px;
       letter-spacing: 1.5px;
@@ -174,8 +252,8 @@
       text-transform: uppercase;
       font-weight: bold;
       margin-bottom: 5px;
+      opacity: 0.75;
     }
-    .chart-wrap { display: block; width: 100%; }
     .aei-right svg { display: block; width: 100%; height: auto; }
     .quarter-labels {
       display: flex;
@@ -186,11 +264,10 @@
 
     @media (max-width: 520px) {
       .aei-banner { padding: 18px 20px; }
-      .aei-inner { flex-direction: column; }
+      .aei-cols { flex-direction: column; }
       .aei-left { width: 100%; }
-      .aei-right { width: 100%; text-align: left; margin-top: 16px; }
-      .aei-right svg { margin-left: 0; width: 100%; }
-      .aei-verdict { max-width: 100%; }
+      .aei-right { width: 100%; margin-top: 16px; }
+      .aei-divider { display: none; }
     }
 
     /* ══════════════════════════════════════
@@ -577,45 +654,48 @@
 
   <!-- ══ 1. HEADER ══ -->
   <div class="header">
-    <img src="IMAGES/Deese-Logo.png" alt="Deese College Logo" />
-    <div class="header-title">
+    <div class="header-geo-line"></div>
+    <div class="header-logo-col">
+      <img src="IMAGES/Deese-Logo.png" alt="Deese College Logo" />
+      <div class="header-logo-divider"></div>
+      <div class="header-logo-text">
+        <div class="header-college-name">Willie A. Deese College<br/>of Business and Economics</div>
+        <div class="header-university-name">North Carolina A&amp;T State University</div>
+      </div>
+    </div>
+    <div class="header-title-col">
       <div class="name">Deese Digest</div>
-      <div class="sub">Willie A. Deese College of Business and Economics &nbsp;·&nbsp; Q2 2026</div>
+      <div class="header-issue-row">
+        <div class="header-issue-rule"></div>
+        <div class="header-issue-label">Q2 · 2026</div>
+      </div>
     </div>
   </div>
 
-  <!-- ══ HERO IMAGE ══ -->
-  <img src="IMAGES/hero-image-clock.png" alt="Hero Image" style="width:100%;display:block;" />
-
   <!-- ══ 2. AEI BANNER ══ -->
   <div class="aei-banner">
+    <div class="aei-cols">
 
-    <div class="aei-header">
-      <div class="aei-eyebrow">Piedmont Triad Economic Activity Index</div>
-      <div class="aei-value">108.1 <span class="aei-baseline">2019 = 100</span></div>
-      <div class="aei-pills">
-        <span class="aei-pill">Momentum 76</span>
-        <span class="aei-pill">Flat · +0.2% avg</span>
-      </div>
-    </div>
-
-    <div class="aei-inner">
       <div class="aei-left">
-        <div class="aei-verdict">
-          The Triad economy stands at 108.1 as of April 2026 — 8.1 points above its pre-pandemic baseline and the highest level in the index's history. Growth Momentum is 76, meaning the region is expanding faster than its historical norm. Labor Utilization remains slightly below 2019 levels, a signal worth watching.
+        <div class="aei-eyebrow">Piedmont Triad Economic Activity Index</div>
+        <div class="aei-value">108.1 <span class="aei-baseline">2019 = 100</span></div>
+        <div class="aei-pills">
+          <span class="aei-pill">Momentum 81</span>
+          <span class="aei-pill">Expansion · +0.22% avg</span>
         </div>
-        <div class="aei-cta"><a href="https://macroinsights.github.io/piedmont-triad-aei/reports/AEI_April_2026.pdf" target="_blank" rel="noopener noreferrer">Read the full AEI report &rarr;</a></div>
+        <div class="aei-cta"><a href="https://macroinsights.github.io/piedmont-triad-aei/reports/AEI_May_2026.pdf" target="_blank" rel="noopener noreferrer">Read the full AEI report &rarr;</a></div>
       </div>
+
+      <div class="aei-divider"></div>
 
       <div class="aei-right">
         <div class="chart-label">8-Quarter Trend</div>
         <!--
           End-of-quarter index values (2019=100, from aei-current.json sparkline):
-          Q2'24: 105.76  Q3'24: 105.89  Q4'24: 106.03  Q1'25: 106.13
-          Q2'25: 106.54  Q3'25: 107.00  Q4'25: 107.41  Q1'26: 107.71
-          SVG 240×80, y: 65 - ((v - 105.76) / 1.95) * 60
+          Q2'24: 105.56  Q3'24: 105.69  Q4'24: 105.83  Q1'25: 105.96
+          Q2'25: 106.36  Q3'25: 106.80  Q4'25: 107.19  Q1'26: 107.47
+          SVG 240×80, y: 65 - ((v - 105.56) / 1.91) * 60
         -->
-        <div class="chart-wrap">
         <svg height="80" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;">
           <!-- Grid -->
           <line x1="0" y1="70" x2="240" y2="70" stroke="#004684" stroke-opacity="0.2" stroke-width="1"/>
@@ -623,28 +703,27 @@
           <line x1="0" y1="5"  x2="240" y2="5"  stroke="#004684" stroke-opacity="0.10" stroke-width="1" stroke-dasharray="3,3"/>
           <!-- Area fill -->
           <polygon
-            points="0,65 34,61 69,56.7 103,53.6 137,41 171,26.8 206,14.2 240,5 240,70 0,70"
+            points="0,65 34,60.9 69,56.5 103,52.4 137,39.9 171,26.1 206,13.8 240,5 240,70 0,70"
             fill="#ffffff" fill-opacity="0.35"/>
           <!-- Sparkline -->
           <polyline
-            points="0,65 34,61 69,56.7 103,53.6 137,41 171,26.8 206,14.2 240,5"
+            points="0,65 34,60.9 69,56.5 103,52.4 137,39.9 171,26.1 206,13.8 240,5"
             fill="none" stroke="#004684" stroke-width="2.5"
             stroke-linejoin="round" stroke-linecap="round"/>
           <!-- Past points -->
           <circle cx="0"   cy="65"   r="3" fill="#004684" opacity="0.4"/>
-          <circle cx="34"  cy="61"   r="3" fill="#004684" opacity="0.4"/>
-          <circle cx="69"  cy="56.7" r="3" fill="#004684" opacity="0.4"/>
-          <circle cx="103" cy="53.6" r="3" fill="#004684" opacity="0.4"/>
-          <circle cx="137" cy="41"   r="3" fill="#004684" opacity="0.4"/>
-          <circle cx="171" cy="26.8" r="3" fill="#004684" opacity="0.4"/>
-          <circle cx="206" cy="14.2" r="3" fill="#004684" opacity="0.4"/>
+          <circle cx="34"  cy="60.9" r="3" fill="#004684" opacity="0.4"/>
+          <circle cx="69"  cy="56.5" r="3" fill="#004684" opacity="0.4"/>
+          <circle cx="103" cy="52.4" r="3" fill="#004684" opacity="0.4"/>
+          <circle cx="137" cy="39.9" r="3" fill="#004684" opacity="0.4"/>
+          <circle cx="171" cy="26.1" r="3" fill="#004684" opacity="0.4"/>
+          <circle cx="206" cy="13.8" r="3" fill="#004684" opacity="0.4"/>
           <!-- Current point highlighted -->
-          <circle cx="240" cy="5"  r="5.5" fill="#004684"/>
+          <circle cx="240" cy="5" r="5.5" fill="#004684"/>
         </svg>
         <div class="quarter-labels">
           <span>Q2'24</span><span>Q3'24</span><span>Q4'24</span><span>Q1'25</span>
           <span>Q2'25</span><span>Q3'25</span><span>Q4'25</span><span>Q1'26</span>
-        </div>
         </div>
       </div>
 
@@ -743,9 +822,12 @@
         </div>
         <div class="research-text-col">
           <div class="research-author">Dr. Alfredo Romero</div>
-          <div class="research-title">National Commentary on Inflation &amp; Wage Growth</div>
-          <div class="research-blurb">Dr. Romero, chair of economics, was quoted explaining how gas prices outpacing wage gains make households more hesitant to spend — a ripple effect felt across the broader economy.</div>
-          <div class="research-journal"><a href="https://www.wsj.com/economy/jobs/inflation-wages-gas-prices-d16d78c0" style="color:#004684;" target="_blank" rel="noopener noreferrer">The Wall Street Journal, May 2026 &rarr;</a></div>
+          <div class="research-title">Two Wall Street Journal Quotations in as Many Months</div>
+          <div class="research-blurb">Dr. Romero, chair of economics, has been quoted twice in The Wall Street Journal this summer. In May, he explained how gas prices outpacing wage growth make households more hesitant to spend; in July, he noted that prolonged job searches signal skills mismatch — pushing workers to lower-paying positions and a lower rung of the income distribution.</div>
+          <div class="research-journal">
+            <a href="https://www.wsj.com/economy/jobs/inflation-wages-gas-prices-d16d78c0" style="color:#004684;" target="_blank" rel="noopener noreferrer">The Wall Street Journal, May 2026 &rarr;</a><br/>
+            <a href="https://www.wsj.com/economy/jobs/unemployment-long-term-job-market-629199f9" style="color:#004684;" target="_blank" rel="noopener noreferrer">The Wall Street Journal, July 2026 &rarr;</a>
+          </div>
         </div>
       </div>
 
@@ -757,26 +839,15 @@
     <div class="section-label">People</div>
     <div class="people-grid">
 
-      <!-- Faculty -->
+      <!-- Faculty Awards & Wins -->
       <div class="person-card">
         <div class="person-avatar">
-          <img src="IMAGES/2026-Q2/Dr-Lisa-Owens-Jackson.jpg" alt="Dr. Lisa Owens-Jackson" style="width:100%;height:100%;object-fit:cover;" />
+          <img src="IMAGES/2026-Q2/meg%20weber.jpg" alt="Dr. Meg Weber" style="width:100%;height:100%;object-fit:cover;" />
         </div>
         <div class="person-info">
-          <div class="person-tag">Faculty</div>
-          <div class="person-name">Dr. Lisa Owens-Jackson &amp; Dr. Isaiah Ugboro</div>
-          <div class="person-blurb">After distinguished careers in Accounting &amp; Finance and Management respectively, both are retiring at the end of the fiscal year — "two pillars of our academic community," in the Dean's words.</div>
-        </div>
-      </div>
-
-      <div class="person-card">
-        <div class="person-avatar">
-          <img src="IMAGES/2026-Q2/stephanie%20kelly.jpg" alt="Dr. Stephanie Kelly" style="width:100%;height:100%;object-fit:cover;" />
-        </div>
-        <div class="person-info">
-          <div class="person-tag">Faculty · BISA</div>
-          <div class="person-name">Dr. Stephanie Kelly</div>
-          <div class="person-blurb">Earned the Top Paper Award from the Communication Education Interest Group at the 2026 Central States Communication Association Convention.</div>
+          <div class="person-tag">Faculty · Management</div>
+          <div class="person-name">Dr. Meg Weber</div>
+          <div class="person-blurb">Named Best Empirical Research Paper and Emerging Scholar at USASBE 2026 for her work on impostor feelings and entrepreneurial capital exchange — dual national recognition at a single conference.</div>
         </div>
       </div>
 
@@ -793,12 +864,12 @@
 
       <div class="person-card">
         <div class="person-avatar">
-          <img src="IMAGES/2026-Q2/meg%20weber.jpg" alt="Dr. Meg Weber" style="width:100%;height:100%;object-fit:cover;" />
+          <img src="IMAGES/2026-Q2/stephanie%20kelly.jpg" alt="Dr. Stephanie Kelly" style="width:100%;height:100%;object-fit:cover;" />
         </div>
         <div class="person-info">
-          <div class="person-tag">Faculty · Management</div>
-          <div class="person-name">Dr. Meg Weber</div>
-          <div class="person-blurb">Named Best Empirical Research Paper and Emerging Scholar at USASBE 2026 for her work on impostor feelings and entrepreneurial capital exchange — dual national recognition at a single conference.</div>
+          <div class="person-tag">Faculty · BISA</div>
+          <div class="person-name">Dr. Stephanie Kelly</div>
+          <div class="person-blurb">Earned the Top Paper Award from the Communication Education Interest Group at the 2026 Central States Communication Association Convention.</div>
         </div>
       </div>
 
@@ -822,6 +893,18 @@
           <div class="person-tag">Students · Marketing &amp; Supply Chain</div>
           <div class="person-name">Bryce Ferebee</div>
           <div class="person-blurb">Selected as the Deese College's Marketing and Supply Chain Management nominee for NC A&amp;T's Spring 2026 Student Honors Convocation.</div>
+        </div>
+      </div>
+
+      <!-- Retirements -->
+      <div class="person-card">
+        <div class="person-avatar">
+          <img src="IMAGES/2026-Q2/Dr-Lisa-Owens-Jackson.jpg" alt="Dr. Lisa Owens-Jackson" style="width:100%;height:100%;object-fit:cover;" />
+        </div>
+        <div class="person-info">
+          <div class="person-tag">Faculty</div>
+          <div class="person-name">Dr. Lisa Owens-Jackson &amp; Dr. Isaiah Ugboro</div>
+          <div class="person-blurb">After distinguished careers in Accounting &amp; Finance and Management respectively, both are retiring at the end of the fiscal year — "two pillars of our academic community," in the Dean's words.</div>
         </div>
       </div>
 
@@ -933,8 +1016,6 @@
     </div>
     <div class="footer-editor">Editor: Alfredo Romero</div>
     <div class="footer-links">
-      <a href="#">Unsubscribe</a>
-      <a href="#">View in browser</a>
       <a href="https://www.linkedin.com/showcase/ncatdeesecobe/posts/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       <a href="https://www.instagram.com/ncatdeesecollege/" target="_blank" rel="noopener noreferrer">Instagram</a>
     </div>
